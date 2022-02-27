@@ -1,0 +1,2191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season: being the commentary of Dr. Martin Luther, on three selected Psalms: viz. the CXXIVth, CXXVth, and CXXIXth. With his commentary on some part of the fourth and fifth chapters of the First Epistle of St. Peter. Being of special use for the present times.</title>
+            <author>Luther, Martin, 1483-1546.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88660</idno>
+            <idno type="STC">Wing L3519</idno>
+            <idno type="STC">ESTC R180278</idno>
+            <idno type="EEBO-CITATION">45578390</idno>
+            <idno type="OCLC">ocm 45578390</idno>
+            <idno type="VID">172313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172313)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season: being the commentary of Dr. Martin Luther, on three selected Psalms: viz. the CXXIVth, CXXVth, and CXXIXth. With his commentary on some part of the fourth and fifth chapters of the First Epistle of St. Peter. Being of special use for the present times.</title>
+                  <author>Luther, Martin, 1483-1546.</author>
+               </titleStmt>
+               <extent>[4], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin at the lower end of Broad-street, next to London-Wall.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXXIV --  Commentaries.</term>
+               <term>Bible. --  O.T. --  Psalms CXXV --  Commentaries.</term>
+               <term>Bible. --  O.T. --  Psalms CXXIX --  Commentaries.</term>
+               <term>Bible. --  N.T. --  Peter, 1st, IV-V --  Commentaries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172313:1" rendition="simple:additions"/>
+            <p>A word in Seaſon: BEING THE COMMENTARY OF <hi>Dr. Martin
+Luther,</hi> ON Three SELECT PSALMS: <hi>VIZ.</hi> The CXXIVth, CXXVth, and
+CXXIXth.</p>
+            <p>WITH His Commentary on ſome part of the Fourth and Fifth
+Chapters of the Firſt Epiſtle of St. <hi>Peter.</hi>
+            </p>
+            <p>
+               <hi>Being of ſpecial Vſe for the preſent Times.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ECCLES. XII. 11.</hi>
+               </bibl> 
+               <p>The Words of the wiſe are goads, and as nails fastened by the
+Masters of Aſſemblies, which are given from one Shepherd.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>George Larkin</hi> at the lower
+End of <hi>Broad-street,</hi> next to <hi>London-Wall.</hi> 1685.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172313:2"/>
+            <pb facs="tcp:172313:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>IT would be an unaccountable Preſumption for me to commend to
+thy good Opinion the Author of the Commentary on the Pſalms, and that part of
+St. <hi>Peters</hi> Firſt Epiſtle, preſented to thee in the following
+Sheets. If thou art a <hi>Proteſtant Chriſtian,</hi> and in<g ref="char:EOLhyphen"/>differently
+acquainted with Authors, thou muſt ac<g ref="char:EOLhyphen"/>knowledge Dr. <hi>Martin Luther,</hi> a
+Worthy of the Firſt Rank next the Apoſtles, if not the Firſt alſo in
+that Rank; or ſtand by thy ſelf, as ſome odd ſingle Exception, from the
+ſtream of thy Profeſſion. But if thou art a <hi>Roman Catholick,</hi> and
+ſo of a Deno<g ref="char:EOLhyphen"/>mination as contradictory to it ſelf, as thy Papal Prin<g ref="char:EOLhyphen"/>ciples
+are to Truth, Reaſon, Sence, and Humane So<g ref="char:EOLhyphen"/>ciety, I muſt not hope the
+Authors Name (than which, to thoſe of thy Profeſſion, none is more
+abhorred) will commend his Work to thy Peruſal, much leſs thy
+Em<g ref="char:EOLhyphen"/>braces.</p>
+            <p>That mighty Oppoſition which this Worthy met with <pb facs="tcp:172313:3"/>in
+his Succeſsful Attempts of pulling down the Papal Power, was an Exerciſe
+for ſuch a Faith and Courage as the God of all Grace had filled him withal:
+And the Commentaries following expreſs as much of both, as any of his
+Numerous Tracts. And this conſider<g ref="char:EOLhyphen"/>ed, with the ſad Parallel of our
+<hi>Preſent Confuſions,</hi> and their <hi>Cauſes,</hi> with thoſe of
+his Days; Thoſe ve<g ref="char:EOLhyphen"/>ry Remedies (animated with the ſame Spirit) are with
+much reaſon propoſed for thy Support, under our pre<g ref="char:EOLhyphen"/>ſent Calamities; if
+not alſo, as of ſome Tendency to<g ref="char:EOLhyphen"/>wards a Cure.</p>
+            <p>I doubt not but ſuch who have not proſtituted their Souls to
+their Senſuality, and their Religion to thoſe who bid moſt, and the
+Church of Chriſt to the Luſts of Antichriſt, will Accept and Approve of
+theſe Flowers out of <hi>Luther's</hi> Garden, as Eminently Seaſonable, and
+to a Spiritual Palate, no leſs Savoury.</p>
+            <p>I have no further to acquaint thee with, but that this Commentary
+is according to the Engliſh Tranſlati<g ref="char:EOLhyphen"/>on out of the Latin, Printed in the
+year <hi>1615.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="Psalm 124" type="commentary">
+            <pb n="1" facs="tcp:172313:3"/>
+            <head>THE COMMENTARY OF Dr. <hi>MARTIN L<g ref="char:V">Ʋ</g>THER,</hi> Upon the CXXIV
+PSALM.</head>
+            <div n="1" type="verse">
+               <head>
+                  <hi>Verſ. 1.</hi> If the Lord had not been on our ſide,
+<hi>&amp;c.</hi>
+               </head>
+               <p>THis Pſalm is a Thankſgiving to God for his great mer<g ref="char:EOLhyphen"/>cy in
+preſerving his People, placed (as the ſtories do ſhew) in the midſt of
+the <hi>Gentiles</hi> and Heathen People,<note place="margin">The Argu<g ref="char:EOLhyphen"/>ment of
+the Pſalm.</note> as a flock of Sheep in a wild Forreſt, or in reſpect of
+the multi<g ref="char:EOLhyphen"/>tude, as a City compared to a mighty Kingdom,<note place="margin">The
+People of <hi>Iſrael</hi> as a flock of Sheep among many Wolves.</note> being
+com<g ref="char:EOLhyphen"/>paſſed on every ſide with the Kings of the <hi>Aſſyrians,</hi>
+the <hi>Egyptians,</hi> the <hi>Ammonites,</hi> the <hi>Iſmaelites,</hi> the
+<hi>Moabites;</hi> whom Satan had ſtirred up with deadly hatred, to vex and
+perſecute them, ſeeking by all means to root them out from the Earth, that
+thereby he might utterly deface and aboliſh the Word and Worſhip of the
+Lord. This danger <hi>David</hi> ſaw, and thanked God which had preſerved
+his People from the rage of ſo many Lyons and Dragons, which
+not<g ref="char:EOLhyphen"/>withſtanding that they never ceaſed to ſeek their Deſtru<g ref="char:EOLhyphen"/>ction, yet
+all that they went about was in vain. And what a miracle was this, that this
+People could ſo long continue, notwithſtanding the malice and rage of ſo
+many Devils? <hi>David</hi> therefore in this Pſalm exhorteth his People to
+be <pb n="2" facs="tcp:172313:4"/>thankful to the Lord their God ſo mightily preſerving,
+de<g ref="char:EOLhyphen"/>fending and delivering them from the violence of ſo many Nations and
+Kingdoms, hating and perſecuting them on every ſide.</p>
+               <p>Which Pſalm we alſo do ſing, not only againſt our
+adver<g ref="char:EOLhyphen"/>ſaries which hate and perſecute the Word, but alſo againſt
+ſpiritual Wickedneſs. For we are taught by the Goſpel that there are now
+ſeven Devils which lye in wait for us, (whereas we were before in danger but
+of one) which ceaſe not to ſtir up the whole World againſt us. Yea our
+Caſe were more tollerable if we had but only the World, and not Satan alſo
+with all his Angels and the gates of Hell, wholly bent againſt us. But yet
+further to moleſt and vex us; be<g ref="char:EOLhyphen"/>ſides all theſe, we have alſo the
+third Enemy, which we car<g ref="char:EOLhyphen"/>ry always about with us, which we nouriſh alſo
+and foſter at home with us, and even within us, the fleſh I mean, which
+giveth us no reſt, but continually tempteth us to Sin, fighteth againſt
+Faith, and ſtriveth in our members againſt the Spirit.</p>
+               <p>Foraſmuch then as the Church of God is never free from theſe
+dangers, let us alſo ſing to the praiſe of Chriſt this Pſalm: that he
+preſerveth us his members from all theſe Enemies. For it were extream
+ingratitude not to acknow<g ref="char:EOLhyphen"/>ledge this miracle, that notwithſtanding all
+theſe, the Church doth yet continue, and that there be ſome which truly
+teach and confeſs Chriſt, and believe in Chriſt, thô Satan rage,
+the World and falſe Brethren conſpire againſt us, and the fleſh (as an
+untamed Beaſt) fight againſt the Word and Faith never ſo much. This is
+the benefit then that <hi>David</hi> ſo highly extolleth, and wiſheth that
+his People would underſtand and give thanks to God for the ſame.</p>
+               <q>
+                  <bibl>Verſe 1.</bibl> 
+                  <p>
+                     <hi>If the Lord had not been on our ſide, may</hi> Iſrael
+<hi>now ſay:</hi>
+                  </p> 
+                  <bibl>Verſe 2.</bibl> 
+                  <p>
+                     <hi>If the Lord had not been been on our ſide, when men roſe
+up againſt us,</hi>
+                  </p> 
+                  <bibl>Verſe 3.</bibl> 
+                  <p>
+                     <hi>They had then ſwallowed us up quick when their wrath was
+kindled againſt us.</hi>
+                  </p>
+               </q>
+               <pb n="3" facs="tcp:172313:4"/>
+               <p>Here the Prophet <hi>David</hi> exhorteth the People to
+con<g ref="char:EOLhyphen"/>ſider how mercifully God hath delivered them from the hands of their
+Enemies, and how miraculouſly he had pre<g ref="char:EOLhyphen"/>ſerved that Kingdom, and alſo to
+praiſe God with him for the ſame. Which words are not to be reſtrained to
+<hi>Davids</hi> time only. For the Heathen People had oftentimes before warred
+againſt them with ſuch Force and Power as was like to the rage of moſt
+huge and terrible floods of Water (whereof he ſpeaketh here) ready to
+overflow them. There<g ref="char:EOLhyphen"/>fore ſeeing he mentioneth here no one kind of
+deliverance, it ſeemeth that he meaneth in theſe words of Thanks<g ref="char:EOLhyphen"/>giving to
+ſet forth whatſoever God had done for the ſuc<g ref="char:EOLhyphen"/>cour and deliverance of his
+People at any time before. Wherein he ſheweth (as it were in a glaſs) the
+dangerous ſtate of the Church from the beginning, that the faithful may learn
+to know that it hath not been preſerved by the ſtrength and policy of man,
+but by the miraculous power and hand of God, and therefore in their troubles
+and afflicti<g ref="char:EOLhyphen"/>ons ſhould always flie to God for help and ſuccour.</p>
+               <p>
+                  <hi>Iſrael</hi> ſignifieth the People of God. Let us
+acknowledge then that there is no way for Gods People to eſcape the hands of
+their Enemies, but by the help and power of God, and that he will have the
+glory and praiſe thereof to be given to him alone. This praiſe can none
+give unto God, but the true <hi>Iſrael,</hi> having experience both of their
+own weakneſs, the force and power of their Enemies, the dan<g ref="char:EOLhyphen"/>gers paſt, and
+of the merciful help and Protection of the Lord.</p>
+            </div>
+            <div n="2" type="verse">
+               <head>
+                  <hi>Verſe 2.</hi> If the Lord had not been on our ſide,
+when men roſe up againſt us.</head>
+               <p>This repetition is not in vain. For whilſt we are in dan<g ref="char:EOLhyphen"/>ger,
+our fear is without meaſure: but when it is once paſt, we imagine it to
+have been leſs then it was indeed. And this is the deluſion of Satan, to
+diminiſh and obſcure the Grace of God. <hi>David</hi> therefore with this
+repetition ſtirreth up the People to greater thankfulneſs unto God for his
+graci<g ref="char:EOLhyphen"/>ous Deliverance and amplifieth the dangers which they had 
+<pb n="4" facs="tcp:172313:5"/>paſſed. Whereby we are taught how to think of our
+trou<g ref="char:EOLhyphen"/>bles and afflictions paſt, leaſt the ſence and feeling of Gods Grace
+vaniſh out of our minds. And here note, how God dealeth with his People in
+their diſtreſs, who ſuffereth their Enemies ſo far to prevail over
+them, and deferreth his help ſo long, till it ſeem impoſſible for them
+to eſcape: ſo that they are compelled to confeſs and acknowledge, that
+they muſt needs have periſhed if the mighty hand of God had not delivered
+them. Theſe two things then we ſee the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> here to
+acknowledge: firſt, That the Lord was on their ſide, that is, ſuccoured
+and delivered them; then alſo that it had not been poſſible but they
+muſt utterly have pe<g ref="char:EOLhyphen"/>riſhed, if God had not preſerved and defended
+them.</p>
+               <p>By <hi>men</hi> is here underſtood whatſoever is great and
+migh<g ref="char:EOLhyphen"/>ty in the world; as if he ſaid: We are counted as abjects and out
+caſts of the world. The Princes, the Rulers, the Wiſe, the Rich of the
+world riſe up againſt us, to deſtroy us and to root us out from the face
+of the earth. If ye be<g ref="char:EOLhyphen"/>hold with how great and how many Kingdoms we are
+com<g ref="char:EOLhyphen"/>paſſed about, which bear a deadly hatred againſt us, we may ſeem
+like to a ſilly Sheep compaſſed about with a multitude of cruel Wolves,
+every moment ready to devour it. That we live in ſafety therefore, and that
+our Enemies prevail not againſt us, acknowledge it to be the great mercy of
+God, O <hi>Iſrael,</hi> which ſo miraculouſly preſerveth and defendeth
+ſo ſmall a flock.</p>
+               <p>In like manner we are compelled to ſay and confeſs at this
+day, that if God did not miraculouſly defend and pre<g ref="char:EOLhyphen"/>ſerve his Church, the
+Power of Satan is ſo great, that one of his Angels is able in one moment to
+deſtroy us all, that either teach or profeſs Chriſt, and to fill the
+World with bloodſhed and ſlaughter. We ſee the Princes, the Pope, the
+Prelates, the mighty and wealthy of the World, yea the whole world in a manner
+bent to deſtroy us. Againſt whom what have we to defend us, but that the
+Lord of Hoſts hath ſtretched out his mighty arm over us, which as a brazen
+wall, defendeth us againſt all the cruel darts which both Satan and the world
+do dayly caſt againſt us? That we live then, that we teach, and you hear
+the word, that we <pb n="5" facs="tcp:172313:5"/>have place and liberty in the Church ſo
+to do, theſe things Satan cannot abide, and therefore he raiſeth the gates
+of Hell againſt us; notwithſtanding he is compelled to ſuffer all theſe
+things through the power of Chriſt our King, who ſitteth at the right hand
+of God; for by mans ſtrength and power theſe things could not be retained
+and defended. If Satan then at any time have his will in troubling the Church,
+in murthering the people of God, and ſuch like, therefore it is, becauſe
+God would ſhew what Satan is able to do every moment if he were not
+re<g ref="char:EOLhyphen"/>ſiſted by the almighty power of God, to the end that we ſhould walk in
+the fear of God, and acknowledging this in<g ref="char:EOLhyphen"/>eſtimable benefit, continually
+pray unto God for the ſame. Let us learn then to ſing with <hi>David: If
+the Lord had not been on our ſide, &amp;c.</hi> whoſe mighty hand hath
+defended us, whoſe power alone hath preſerved us. And although the world
+rage againſt us, though Satan vex us never ſo ſore, they cannot hurt us.
+<hi>Be of good comfort</hi> (ſaith Chriſt our Sa<g ref="char:EOLhyphen"/>viour) <hi>for I have
+overcome the world.</hi> Again; <hi>I give unto them everlaſting life, and
+none ſhall take them out of my hand.</hi>
+               </p>
+            </div>
+            <div n="3" type="verse">
+               <head>
+                  <hi>Verſe 3.</hi> They had then ſwallowed us up quick,
+when their wrath was kindled againſt us.</head>
+               <p>In theſe words he expreſſeth, not only the ſtrength,
+rage, and cruelty of the enemies: but alſo how weak and unable the
+Iſraelites were to withſtand them. And here he uſeth a ſimilitude taken
+of fierce and outragious beaſts, whoſe pro<g ref="char:EOLhyphen"/>perty is, when they have taken
+their Preys, to ſwallow them up alive. Likewiſe when we would expreſs the
+cruelty or malice of any towards us, we are wont to ſay: He hateth me ſo
+deadly, that he could find in his heart to eat me, or ſwallow me up quick.
+The Prophet meaneth then that their enemies were ſo many and ſo mighty,
+that they need<g ref="char:EOLhyphen"/>ed no armour or weapons to deſtroy them, but were able, like
+fierce and cruel beaſts, to ſwallow them up alive, be<g ref="char:EOLhyphen"/>ing ſo weak and
+ſo little a flock.</p>
+            </div>
+            <div n="4" type="verse">
+               <pb n="6" facs="tcp:172313:6"/>
+               <head>
+                  <hi>Verſe 4.</hi> Then the Waters had drowned us, and the
+ſtream had gone over our ſoul.</head>
+               <p>Terrible is the rage of fire, but much more terrible is the
+violence and rage of water, for that no power can re<g ref="char:EOLhyphen"/>ſiſt. Now, ſaith
+<hi>David,</hi> like as huge and mighty floods of water carried with great
+power and violence, do ſuddenly overthrow and bear down whatſoever they
+meet withall: even ſuch is the rage of the enemies of Gods Church, which no
+power of man is able to withſtand. Therefore let us learn to truſt to the
+Lords defence and ſuccour. For what elſe is the Church, but as a little
+boat tyed by a River fide, and by violence of the water ſoon carried away? Or
+as a Reed which by force of the ſtream is eaſily plucked up and carried
+away? Such was the people of <hi>Iſrael</hi> in <hi>Davids</hi> time, being
+compared to the Gentiles round about them. Such is the Church likewiſe at
+this day, compared to the adverſaries. Such is every one of us in reſpect
+of the force and power of the malignant ſpirit. We are like a Reed which is
+eaſily plucked up: and he like a raging flood which with great might and
+violence overthroweth and carrieth away all things. We are like a withered
+leaf, ſoon blown from the tree; and he like a mighty wind or tempeſt, not
+onely blowing down leaves, but plucking up and over<g ref="char:EOLhyphen"/>throwing trees and all.
+What are we then poor wretches able to do of our own power and ſtrength for
+our defence? We muſt learn therefore by faith wholly to reſt upon the word.
+For what is our victory but even our faith? Albeit that armour and munitions
+have their place, yet can they nothing help at all, unleſs we have a truſt
+and affiance in the Lord, who hath promiſed to be our God, our ſtrength,
+and our defence: whoſe power is ſuch, whoſe mighty arm alſo is
+ſtretched out for the defence of his, that albeit ne<g ref="char:EOLhyphen"/>ver ſo great a
+tempeſt or violent rage of water ſhould in<g ref="char:EOLhyphen"/>vade the pooreſt and
+ſimpleſt cottage that can be, it forceth not. Let this be then our
+aſſured truſt, let this be the rock of our ſafety, help and ſuccour,
+that God will be our defen<g ref="char:EOLhyphen"/>der and keeper, that the great floods and mighty
+waters carry us not away. This ſure defence and mighty prote<g ref="char:EOLhyphen"/>ction 
+<pb n="7" facs="tcp:172313:6"/>of our God, the wicked neither know nor believe; for they
+attribute all their ſucceſs and welfare to their own ſtrength, wiſdom,
+and riches. But <hi>Solomon,</hi> albeit he was a King abundantly endued with
+all theſe things, yet ſaith he: <hi>Except the Lord build the houſe, the
+builders labour in vain: Except the Lord keep the City, they watch in vain that
+keep it.</hi>
+               </p>
+            </div>
+            <div n="5" type="verse">
+               <head>
+                  <hi>Verſe 5.</hi> Then had the ſwelling waters gone over
+our ſoul.</head>
+               <p>He ſetteth out yet more lively and as it were before their
+eyes, the great danger from the which God had delivered them. And this vehement
+kind of ſpeech which he uſeth here, had as great force to make the faithful
+to feel from what terrible deſtruction they were delivered by the migh<g ref="char:EOLhyphen"/>ty
+hand of God, as if their danger had been preſent before their eyes, and ſo
+to become more thankful to God for the ſame.<note place="margin">Note who are
+moſt thankfull.</note> For he is thankful to God indeed for his deliverance
+and ſafety, which doth acknowledge that before his delive<g ref="char:EOLhyphen"/>rance he ſaw
+nothing elſe but utter deſtruction.</p>
+               <p>Thus <hi>David</hi> ſetteth out the afflictions. and
+calamities of the Church and of the godly, whom the world doth not on<g ref="char:EOLhyphen"/>ly hate,
+but cruelly Perſecute. Whereby we may ſee that it hath not only a greedy
+deſire, but alſo power to hurt, murder and deſtroy. Satan likewiſe
+goeth about like a ra<g ref="char:EOLhyphen"/>ging Lyon, ſeeking whom he may devour. Beſides
+theſe, there are great and horrible ſins ſticking in our fleſh. That we
+fall not therefore every moment into deſperation, or o<g ref="char:EOLhyphen"/>therwiſe periſh,
+it is becauſe he is greater which is in us, then he which is in the world, or
+the whole world beſides, as <hi>David</hi> ſaith: <hi>If God had not been
+with us, our enemies had ſwallowed us up alive.</hi> Now he addeth a notable
+ſimilitude, wherewith he amplifieth the danger of the godly, and power of the
+wicked.</p>
+            </div>
+            <div n="6" type="verse">
+               <head>
+                  <hi>Verſe 6.</hi> Praiſed be the Lord, which hath not
+given us as a Prey unto their Teeth.</head>
+               <p>He exhorteth the faithſul to be thankful for their
+delive<g ref="char:EOLhyphen"/>rance, <pb n="8" facs="tcp:172313:7"/>and expreſſeth unto them, how and (as it
+were) with what words they ſhould declare this thankfullneſs. Wherein he
+ſetteth forth yet further by another ſimilitude, that it could not be but
+they muſt utterly have periſhed, if God had not miraculouſly defended
+them. For they were, ſaith he, no otherwiſe preſerved, then as if a man
+ſhould violently take a Prey out of the jaws of a raging and cruel beaſt.
+As if he ſaid, We were indeed like ſilly ſheep, and as a Prey ready to be
+devoured of cruel beaſts: but praiſed be the Lord our God, which would not
+ſuffer us ſo to periſh. He ſaith not: <hi>which hath delivered us:</hi>
+albeit he did indeed mightily deliver them: but, <hi>which hath not given us as
+a Prey, &amp;c.</hi> For this is it which ſpecially the Holy Ghoſt here
+ſetteth forth, that the wicked cannot hurt the godly, be they never ſo
+many, mighty, furious, cruell and terrible, like to raging and violent waters,
+like to cruel and outragious beaſts, falling upon them with open mouth,
+except the Lord give them into their hands. Let us therefore with
+<hi>David</hi> ſing praiſes unto the Lord our God, which keepeth and
+defendeth us, that the raging and cruel beaſts which have ſharpened their
+teeth to devour us, cannot hurt us. Without this merciful protection of our
+God, there is no way to ſtand againſt Satan and his cruell members the
+ſpace of one moment.</p>
+            </div>
+            <div n="7" type="verse">
+               <head>
+                  <hi>Verſe 7.</hi> Our Soul is eſcaped even as a bird out
+of the ſnare of the Fouler: The ſnare is broken, and we are
+delivered.</head>
+               <p>He amplifieth yet further by a third ſimilitude, the great
+perills and dangers of the faithful, being in the hands of their enemies, as a
+bird that is taken in the ſnare is in the hands of the fouler; and yet
+notwithſtanding they eſcaped by the mighty power of God, no otherwiſe
+then the bird that is delivered out of the ſnare of the fouler. By the
+ſnare is here to be underſtood as well the fraud and ſubtilty of the
+enemies, whereby the Iſraelites were brought into thraldom and captivity, as
+alſo the ſtrength and power wherewith they were long oppreſſed. So that
+they had not onely to do with Bloody and Cruel Enemies, but alſo 
+<pb n="9" facs="tcp:172313:7"/>were entrapped and ſnared by fraud and ſubtilty, and with
+might and power miſerably oppreſſed. Thus being unable both in Strength
+and Policy to withſtand their Enemies, they were every way in danger of Death
+and Deſtruction: whereby it appeareth that they were miraculouſly
+delivered.</p>
+               <p>And here have we an Image of our ſpiritual Thraldom and
+Captivity under Satan, in whoſe ſnares we were once moſt mi<g ref="char:EOLhyphen"/>ſerably
+wrapped. Now therefore that we are delivered by the ineſtimable benefit of
+Chriſt, let us acknowlege both our for<g ref="char:EOLhyphen"/>mer Calamity, and the Liberty of this
+Grace wherein we ſtand, and let us beware that we caſt not our ſelves
+into the ſnares of ſervile Bondage any more. For Satan ſleepeth not, but
+lyeth continually in wait for us, ready to draw us into thoſe ſnares again,
+out of the which by the great mercy of God we were de<g ref="char:EOLhyphen"/>livered: yea and
+ſometimes is ſuffered to hurt either our Bodies or Souls, not only to
+ſhew us that he is able likewiſe to deſtroy both Body and Soul, if God
+did ſo permit: but alſo to ſtir us up to Faith and Prayer, that we
+ſhould call upon him for Aid and Succour againſt theſe perillous Snares,
+and being delivered, ſhould give him thanks and praiſe for the ſame.</p>
+               <p>Moreover, every Tentation is a Snare, whether it be of the
+Fleſh or Spirit. Perſecution, Torments, Impriſonment, Slan<g ref="char:EOLhyphen"/>der,
+diſeaſes and infirmities of the Body, be ſnares; which as they are
+permitted of God to exerciſe and ſtrengthen our Faith: ſo by the malice
+of Satan they are wrought to afflict and to vex men, that he may bring them to
+infidelity and deſperation, and ſo into the Snares of eternal Death. From
+the which Snares, but by the ſpecial Grace of God, there is no way to
+eſcape.</p>
+               <p>Thus our life lyeth always open to the Snares of Satan,<note place="margin">The Snares of Satan.</note> and we as ſilly Birds are like at
+every moment to be carried away. Notwithſtanding the Lord maketh a way for us
+to eſcape. Yea when Satan ſeemeth to be moſt ſure of us, by the mighty
+Pow<g ref="char:EOLhyphen"/>er of God the Snares are broken, and we are delivered. Expe<g ref="char:EOLhyphen"/>rience hereof
+we have in thoſe which are inwardly afflicted, and with heavineſs of Spirit
+grievouſly oppreſſed; that when they ſeem to be in utter Deſpair, and
+ready (as you would ſay) now to periſh, yet even at the laſt pinch, and
+in the uttermoſt Extre<g ref="char:EOLhyphen"/>mity, cometh the ſweet Comfort of Gods holy Spirit,
+and raiſeth them up again. When we are moſt ready to periſh, then is 
+<pb n="10" facs="tcp:172313:8"/>God moſt ready to help.<note place="margin">
+                     <hi>Pſal.</hi>
+94.</note> 
+                  <hi>Except the Lord had holpen me</hi> (ſaith David) <hi>my Soul
+had almoſt dwelt in ſilence.</hi>
+               </p>
+            </div>
+            <div n="8" type="verse">
+               <head>
+                  <hi>Verſe 8.</hi> Our help is in the Name of the Lord who
+hath made both Heaven and Earth.</head>
+               <p>This is the Concluſion of Thankſgiving, containing a worthy
+ſentence of great Comfort, that againſt Sin, the horrour of Death,<note place="margin">The Name of the Lord is our only Sanctuary and ſuccour in all
+afflictions.</note> and other Dangers, there is no other help or ſafety but
+only <hi>the Name of the Lord.</hi> If that were not <hi>(ſaith he)</hi> we
+ſhould fall into all manner of Sin, Blaſphemy, Errors, and into all kind of
+Calamities. But our help is in the Name of the Lord, which preſerveth our
+Faith and our Life againſt the Devil and the World. And as ye heard in the
+other Verſes before, ſo he ſheweth in this verſe alſo, that God
+ſuffereth his Saints to be tempted, and in their Tentation to fall into great
+Diſtreſs, as even now ready to be drowned and ſwallowed up preſently
+with great floods of Water: yet notwithſtanding this Comfort he ſheweth
+them, that he will not utterly forſake them. By the which Examples we may
+learn to know the Will of the Lord, and to ſeek our help and ſafety at his
+hands, which ſuffereth his People to be exerciſed in the Furnace of
+<hi>Egypt,</hi> not to their ut<g ref="char:EOLhyphen"/>ter Deſtruction, but only to kill the old man
+with his vain hope and confidence which he hath in his own ſtrength. This is
+the cauſe why God ſuffereth his People to be exerciſed. For it is not
+hearing, reading, talking, or teaching, nor Speculation on<g ref="char:EOLhyphen"/>ly which maketh a
+Chriſtian man, but Practice is that which ſpecially is required in a true
+Chriſtian, that is to ſay, the Croſs, to pluck down the fleſh and bring
+it to nothing; That man, de<g ref="char:EOLhyphen"/>ſpairing of his own ſtrength, and ſeeing no
+ſuccour in himſelf, ſhould reſign himſelf wholly unto the Lord,
+looking with Pati<g ref="char:EOLhyphen"/>ence and Hope for help at his hand: for this is the Will of
+God. Neither muſt we imagine to our ſelves any other God then ſuch an one
+as will help the afflicted and oppreſſed with Deſperation and other
+Calamities. To know this Doctrine is one piece of the victory. For they that
+know it not when Tentation aſſaileth them, either do deſpair or ſeek
+other helps. Let us learn then out of this Pſalm, that it is the Will of God
+to exerciſe his Saints with troubles and afflictions: Who ſuffereth great
+floods <pb n="11" facs="tcp:172313:8"/>of Water to run over their heads: who alſo
+permitteth them to fall into the Snares of the Wicked, and tryeth every Way,
+not to deſtroy them, but to ſhew them what they are of them<g ref="char:EOLhyphen"/>ſelves, and
+ſo to teach them to truſt in his ſaving health. But the fleſh looketh
+to the power and multitude of the Adverſaries, and her own infirmity: but to
+look unto God, and to hope for his help and ſuccour, it is not able.</p>
+               <p>Wherefore this is a neceſſary Concluſion: <hi>Our help is
+in the Name of the Lord.</hi> It is a ſhort-Sentence, but it ſetteth forth
+moſt worthy Doctrine and Conſolation: whereof ſpecially in theſe latter
+days we have great need, ſeeing the Pope, together with the greateſt part
+of the Princes and Rulers of the World, ſo cruelly do perſecure the
+Doctrine of the Goſpel. In reſpect of theſe huge Mountains, what are we
+ſmall Molehils? Yea tho there were no Force nor Power of man for us to fear,
+how are we able to ſtand againſt, not only ſo many Devils, but even the
+very gates of Hell alſo? And yet this Experience we have of the great Mercy
+and Goodneſs of the Lord our God, that when we are even in their hands, and
+never ſo much oppreſſed, yet are we not forſaken, but are ſafe
+through our Confidence and truſt in his Help.<note place="margin">The fruit of
+afflictions.</note> But to this Wiſdom it is impoſſible for us to attain
+without continual afflictions: whereby it is neceſſary that the confidence
+of all worldly ſuccours ſhould be beaten down. For vexation and trouble
+bringeth Underſtanding (as <hi>Iſaiah</hi> ſaith,) whereby we are
+compelled to cry; <hi>Help Lord, for elſe we periſh.</hi> So in the laſt
+hour when Death approacheth, there is nothing wherein mans Heart can repoſe
+it ſelf or find Comfort, but his truſt and confidence in the help of the
+Lord; There is reſt and quietneſs, there is perfect Peace. He that can then
+ſay, <hi>My Help is in the Name of the Lord,</hi> dyeth hap<g ref="char:EOLhyphen"/>pily, and is out
+of all danger. Thus we may learn what it is to have and enjoy God, even to
+reſt in the ſure truſt of his merci<g ref="char:EOLhyphen"/>ful help and ſuccour in all
+dangers. Theſe are the Words there<g ref="char:EOLhyphen"/>fore of a victorious and triumphing Faith:
+<hi>Our help is in the name of the Lord which made Heaven and Earth.</hi> As if
+he ſaid: The maker of Heaven and Earth is my God and my helper. Shew me a God
+(O ye my Adverſaries) like unto him. What are your ſnares and your traines
+then, compared unto this God? What are your threatnings, your Power, your
+Policies? <hi>&amp;c.</hi>
+               </p>
+               <pb n="12" facs="tcp:172313:9"/>
+               <p>Thus he ſetteth the Eternal God, the maker of Heaven and
+Earth, againſt all terrours and dangers, againſt the floods and
+overflowings of all tentations, and ſwalloweth up as it were with on breath,
+all the raging furies of the whole World, and of Hell it ſelf, even as a
+little drop of Water is ſwallowed up of a mighty flaming fire. And what is
+the World with all his Force and Power, in reſpect of him which made Heaven
+and Earth? Let the World fret then, let it rage, ſo that this ſuccour never
+fail us. And if it be the Will of God that we ſhall ſuffer trouble and
+affliction, yet in him we ſhall overcome at length.</p>
+            </div>
+         </div>
+         <div n="Psalm 125" type="commentary">
+            <head>THE COMMENTARY OF Dr. <hi>MARTIN L<g ref="char:V">Ʋ</g>THER,</hi> Upon the CXXV
+PSALM.</head>
+            <epigraph>
+               <q>They that truſt in the Lord, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>THE Pſalm going before,<note place="margin">The argu<g ref="char:EOLhyphen"/>ment of the
+Pſalm.</note> is a Thankſgiving or a Sacrifice of Praiſe, becauſe the
+Godly ſee, and by experience feel that the Lord is faithful and helpeth them
+in the time of need. This Pſalm following containeth alſo, in a manner, the
+ſame matter: For it pertaineth to the Doctrine of Faith, and exhorteth the
+Faithful likewiſe to a ſure truſt and aſſiance in the help of the 
+<pb n="13" facs="tcp:172313:9"/>Lord in all their neceſſities: Whereunto he ſtirreth
+them up with great and excellent promiſes. It may alſo be eaſily
+under<g ref="char:EOLhyphen"/>ſtood by that which we have ſaid before. For herein conſiſteth
+all this Heavenly Wiſdom, that we do utterly remove out of our ſight,
+whatſoever fleſh can comprehend, and believe that which the Word only
+telleth us, even againſt all that which ei<g ref="char:EOLhyphen"/>ther we know, feel, or ſee: And
+therefore this Wiſdom is a<g ref="char:EOLhyphen"/>gainſt all humane Wiſdom and Reaſon. For by
+Reaſon, and all that Reaſon can comprehend, we feel, ſee, and conceive
+all things contrary to that which Faith leadeth us unto.</p>
+            <p>He that lyeth ſick at the point of Death, can by Reaſon
+con<g ref="char:EOLhyphen"/>ceive nothing elſe but the imagination of Death. But a Chri<g ref="char:EOLhyphen"/>ſtian man
+leaving his imagination, knoweth that in Death there is true Life. But thou
+wilt ſay: He ſeeth and feeleth Death in<g ref="char:EOLhyphen"/>deed, but Life he cannot feel. I
+Anſwer, that becauſe he reſt<g ref="char:EOLhyphen"/>eth upon the Word, and after it he judgeth,
+and not after his own feeling, therefore even in Death he ſeeth nothing but
+Life, and in the midſt of Darkneſs moſt clear light. For like as God
+maketh all things of nothing, and of darkneſs light: ſo he wor<g ref="char:EOLhyphen"/>keth by his
+Word, that in Death there is nothing but life.<note place="margin">The power of
+the Word. <hi>Pſal.</hi> 33.</note> They then which ſtick to the Word and
+Promiſe of God, and follow the ſame, do find it true which <hi>David</hi>
+ſaith, <hi>He ſpake the Word and it was done,</hi> &amp;c. But before we
+can come to this experience, we muſt abide ſome trouble, and therefore have
+need of ſuch ex<g ref="char:EOLhyphen"/>hortation as this Pſalm here ſetteth forth.</p>
+            <div n="1" type="verse">
+               <head>
+                  <hi>Verſe 1.</hi> They that truſt in the Lord, ſhall be
+as Mount Sion, which cannot be removed, but remaineth for ever.</head>
+               <p>The Prophet uſeth here a ſimilitude of Mount <hi>Sion,</hi>
+becauſe <hi>Jeruſalem</hi> wherein <hi>Sion</hi> ſtood, when the Temple
+was builded had moſt ample and notable promiſes of God (as appeareth in
+very many places of the Prophets) that it ſhould ſtand ſure and
+invincible for ever againſt all troubles and Calamities, for that the Lord
+had his abiding and dwelling there; according to that promiſe where he
+ſaith, <hi>Here is my reſt, here will I dwell,</hi> &amp;c. And therefore
+<hi>David</hi> in another Pſalm glorieth on this wiſe: <hi>Lo, the Kings
+were gathered and went together, when they ſaw it, they marvelled; They were
+aſtonied and ſuddenly driven back.</hi> As we <pb n="14" facs="tcp:172313:10"/>may ſee
+it came to paſs under <hi>Ezechias</hi> in the great Deſtruction of the
+<hi>Aſſyrians</hi> and other Kings, as the ſtories witneſs; which
+ſhew that <hi>Jeruſalem</hi> remained ſafe in all dangers, not by
+ſtrength and Policy of the inhabitants, but by the miraculous Work of God
+dwelling in it, and thus mightily preſerving and beautifying his own
+Common-wealth.</p>
+               <p>Now therefore, ſaith he, like as Mount <hi>Sion</hi> and our
+Holy City <hi>Jeruſalem</hi> is never moved, but remaineth ſure and ſafe
+by the mighty protection of the Lord in all Extremities: ſo he that
+truſteth in the Lord ſhall be defended againſt the furious Rage of the
+World and the Gates of Hell for ever Note how he commandeth no Work here to be
+done, as in Popery, in the time of trouble men were taught to enter into ſome
+kind of Re<g ref="char:EOLhyphen"/>ligion, to faſt, to go on Pilgrimage, and to do ſuch other
+fooliſh Works of Devotion, which they deviſed, as an high Service unto God,
+and thereby thought to make Condigne Satisfaction for Sin,<note place="margin">To
+hope and truſt in the Lord, is tke greateſt Ser<g ref="char:EOLhyphen"/>vice that we can do to
+him.</note> and merit Eternal Life; but ſimply he leadeth us the plain Way
+unto God, pronouncing this to be the chiefeſt Anchor of our Salvation, only
+to hope and truſt in the Lord, and that this is the greateſt Service that
+we can do unto God. For this is the Nature of God (as I have ſaid) to create
+all things of nothing. Therefore he createth and bringeth forth in Death Life;
+in Darkneſs,<note place="margin">The Nature of Faith.</note> Light: And this to
+believe, is the very Nature and moſt ſpecial Property of Faith. When God
+then ſeeth ſuch a one as agreeth with his own Nature, that is, which
+believeth to find in Danger, Help; in Poverty, Riches; in Sin,
+Righteouſneſs; and that for Gods own Mercies ſake in Chriſt alone; him
+can God neither hate nor forſake. For he ſerveth and worſhipeth God truly
+which putteth his whole truſt in the Mercy of God. With this Service God is
+highly pleaſed, becauſe he delighteth of nothing to make ſomething. So he
+made the World of no<g ref="char:EOLhyphen"/>thing: ſo he raiſeth up the Poor and Oppreſſed;
+ſo he juſtifieth the Sinner; ſo he raiſeth the Dead; and ſo he
+ſaveth the Dam<g ref="char:EOLhyphen"/>ned. Who ſo then conſenteth to Gods Nature, and obeyeth
+his Will, there hoping ſor ſomething where nothing is, he it is that
+pleaſeth God, and ſhall never be moved.</p>
+               <p>But thou muſt beware that thou imagine not to thy ſelf a
+falſe Hope, contrary to the Word of God and thy Vocation. Whereof if thou be
+certain, and abide in the ſame, if troubles <pb n="15" facs="tcp:172313:10"/>riſe,
+truſt in the Lord; and if he help not in his good time, take me and
+<hi>David</hi> alſo for Lyars. Satan will trouble, vex and diſ<g ref="char:EOLhyphen"/>comfort
+thee, yea and peradventure make thee to believe that thou art utterly
+forſaken; but if thou truſt in the Lord, thou ſhalt feel his help with
+joyful Victory. So in the Council of <hi>Auſpurge</hi> when the Princes were
+bent againſt us with one con<g ref="char:EOLhyphen"/>ſent, our cauſe ſeemed to be utterly
+overthrown. Notwith<g ref="char:EOLhyphen"/>ſtanding yet we live and enjoy ſuch Peace and Liberty
+as we would wiſh, maugre the Rage and Malice of the Pope and all the
+Adverſaries of the World. With ſuch Conflicts we muſt be ex<g ref="char:EOLhyphen"/>erciſed
+leaſt we be diſcouraged when we ſee our cauſe begin to quaile. But the
+greater the danger is, the more ſtedfaſtly we muſt truſt. So ſhall it
+come to paſs that when we are overcome, yet we ſhall overcome, and the
+Conqueror ſhall yield unto us Triumph and Victory.</p>
+               <p>This is it that the Pſalm here ſetteth forth: <hi>They that
+truſt in the Lord ſhall be as Mount Sion, which cannot be removed, but
+remaineth for ever.</hi> And here we have a ſingular promiſe, where<g ref="char:EOLhyphen"/>by we
+are aſſured that we ſhall ſtand and abide for ever If then we do not
+continue, it is our own fault, becauſe we abide not firm and ſtable in our
+Faith: For this promiſe muſt needs re<g ref="char:EOLhyphen"/>main ſure and infallible. Yea as it
+is impoſſible that God ſhould deny himſelf, and not be God: ſo is it
+impoſſible that he ſhould forſake thoſe that put their truſt in
+him. But we may not think the time long, but patiently abide the Lords
+Leiſure. For Gods power taketh no place in us until we be utterly (to ſpeak
+after the manner of the Scripture) exininated, that is, ſtript naked of all
+Worldly Hope and Helps that man hath in himſelf, and brought to nothing: like
+as when he ſaveth a ſhip from drowning, now ready to periſh, and paſt
+all Remedy; As the two Stories of the Goſpel, one of the Ship, the other of
+the danger of <hi>Peter,</hi> do teſtifie.</p>
+            </div>
+            <div n="2" type="verse">
+               <head>
+                  <hi>Verſe 2.</hi> As the Mountains are about
+<hi>Jeruſalem,</hi> ſo is the Lord about his People, from henceforth and
+for ever.</head>
+               <p>Where many hundred thouſands of men are, there are ſcarce<g ref="char:EOLhyphen"/>ly
+ſeven thouſand which know God, or believe in God, and yet for their ſakes
+the whole Multitude is called God<g ref="char:punc">▪</g>s people, <pb n="16" facs="tcp:172313:11"/>Even ſo
+was it in <hi>Jeruſalem.</hi>
+                  <note place="margin">
+                     <hi>Jeruſalem</hi> called
+holy by the figure Sy<g ref="char:EOLhyphen"/>necdoche where a part is taken for the whole.</note>
+Albeit the greater part was Wick<g ref="char:EOLhyphen"/>ed and Godleſs, yet was <hi>Jeruſalem</hi>
+called Holy, not only in Re<g ref="char:EOLhyphen"/>ſpect of a ſmall Nnmber of the Godly; but
+alſo becauſe God had his abiding there. So when there was not one juſt
+perſon in <hi>Sodom</hi> but <hi>Lot</hi> with his two Daughters, yet could
+not the An<g ref="char:EOLhyphen"/>gel deſtroy <hi>Sodom</hi> with fire ſo long as <hi>Lot</hi> was
+in it. Likewiſe where four or five or ten godly Perſons are to be found,
+for their ſakes the whole City is called Holy. For theſe are the E<g ref="char:EOLhyphen"/>lect
+corner ſtones, theſe are the precious Pearls which God ſo highly
+eſteemeth, and for whoſe ſakes he ſpareth the Wicked. Therefore ſaith
+<hi>David,</hi> As <hi>Jeruſalem</hi> is compaſſed about with Mountains,
+ſo doth the Lord compaſs his People and mightily defend them on every
+ſide. In like manner <hi>Zachary</hi> Prophecy<g ref="char:EOLhyphen"/>eth of a City whoſe Wall is
+of fire. Theſe Similitudes do ſet forth unto us the Safety of Gods People,
+that weak and little poor Flock, againſt all Dangers. Upon this promiſe if
+we alſo do reſt, which at this day enjoy the ineſtimable Benfit of Gods
+Holy Word, we ſhall be defended againſt the Rage of Satan and the whole
+World, not by fiery and brazen Walls, but by the Lord himſelf. Theſe things
+albeit we cannot comprehend, yet ſhould we believe them ſo certainly as if
+we did ſee them with our bodily Eyes. If we ſhould ſee our ſelves
+compaſſed about with brazen and fiery Walls, we would be without all fear,
+and Triumph againſt Satan. But it is a matter of Faith, not to truſt unto
+that which the Eyes ſee, but which the Word offereth and promiſeth. This
+one thing therefore is lacking in us, that we have not eyes of the Spirit, but
+we judge according to the eyes and ſenſe of the Fleſh. For elſe we
+ſhould be no more afraid then they which being cloſed within the Walls of
+an invincible Caſtle, fear not the force and power of their Enemies, be they
+never ſo terrible. We muſt not doubt therefore, but if we be<g ref="char:EOLhyphen"/>lieve, we are
+compaſſed about with fiery and brazen Mountains, that is to ſay, we abide
+for ever invincible againſt the Rage of Satan and all the Powers of
+Darkneſs. Bleſſed therefore is he that believeth.</p>
+               <p>Theſe Mountains are the Angels, which compaſs us on every
+ſide, that Satan with his Angels and Miniſters cannot hurt us as he would;
+Whoſe Malice and Power is ſuch, that if they did not continually behold us,
+continually defend us and watch <pb n="17" facs="tcp:172313:11"/>over us, he would deſtroy
+us every moment. This can all they teſtifie which know that Satan is a
+Murtherer and a Lyar, which cannot abide to ſee the godly proſper, and
+therefore he ſeeketh by all means to root them out from the face of the
+Earth. That we are not then utterly conſumed, it is the benefit of theſe
+Mountains, by whom we are ſo compaſſed and defended. Some<g ref="char:EOLhyphen"/>times Satan
+hurleth his Darts at us as it were through the win<g ref="char:EOLhyphen"/>dow, to deſtroy us, and
+worketh us indeed ſome ſorrow, but he cannot move us.</p>
+               <p>This ſimilitude ſeemeth to be taken out of the Story of
+<hi>Heli<g ref="char:EOLhyphen"/>zeus</hi> in the ſecond book of the <hi>Kings,</hi> where the
+ſervant of <hi>He<g ref="char:EOLhyphen"/>lizeus</hi> ſaw the Hills about him full of fiery
+Chariots, and Horſe<g ref="char:EOLhyphen"/>men compaſſing <hi>Helizeus</hi> round about, and
+mightily defending him. This ſuccour which the Servant of <hi>Helizeus</hi>
+ſaw, and the Prophet believed, when he ſaw nothing, is ſaith the Prophet,
+round about all them which truſt in the Lord: as alſo the 34. Pſalm
+witneſſeth; <hi>The Angel of the Lord pitcheth round about them that fear
+him.</hi> But our eyes are ſhut up and ſee not theſe mi<g ref="char:EOLhyphen"/>racles, whereof
+not with ſtanding we have daily experience.</p>
+               <p>This promiſe then will never deceive us; only let us not
+de<g ref="char:EOLhyphen"/>ceive our ſelves. If therefore we did believe, no doubt, we ſhould
+ſleep, we ſhould live, we ſhould die, yea (that more is) we ſhould
+ſuffer what ſoever Satan and the world can do againſt us, without all
+fear. For thus ſhould we think, if I ſuffer any thing, it is not without
+the Will of God, nor without good cauſe, well known, tho' not unto me, yet
+unto God. Therefore although Satan break through the wall in one place, yet
+ſhall he never be able utterly to overthrow it altogether. Thus ſhould we
+think in our troubles and afflictions, and comfort our ſelves with the good
+Will of God. But we are afraid when any trou<g ref="char:EOLhyphen"/>ble cometh, and never feel that
+ſecurity which Faith bringeth. Thus do we worthily ſuffer the puniſhment
+of our infidelity which we nouriſh within us, although we be called away from
+it by ſo many notable places of Scripture.</p>
+               <p>Beſides all this, it is not enough that we are compaſſed
+about with fiery Walls, that is, with the ſure Cuſtody, the continual Watch
+and Ward of the Angels, but the Lord himſelf is our Wall: ſo that every way
+we are defended by the Lord againſt all Dangers. Above us he is a Heaven, on
+both ſides he is as a <pb n="18" facs="tcp:172313:12"/>Wall, under us he is as a ſtrong
+Rock whereupon we ſtand: ſo are we every way ſure and ſafe. Now, if
+Satan through theſe munitions caſt his darts at us, it muſt needs be that
+the Lord himſelf ſhall be hurt before we take harm. But great is our
+in<g ref="char:EOLhyphen"/>credulity, which hear all theſe things in vain. Yet muſt they be taught
+and learned, leaſt the time come that we be deſtitute of all Counſel and
+Comfort in theſe matters. For certain it is that the hour ſhall come when
+we muſt have experience of theſe things, or elſe utterly periſh.</p>
+               <p>Where he addeth, <hi>From henceforth and for ever.</hi> By
+theſe words he ſheweth that this vigilancy of the Lord our God over us, is
+not temporal, but eternal, according to that which he ſaid before in the
+firſt verſe of this Pſalm. <hi>They ſhall remain for ever.</hi> Let us
+learn therefore out of this Pſalm, that our Conſtancy and perſeverance
+conſiſteth in this, that we are defended by the Power and Providence of the
+Lord on every ſide.</p>
+            </div>
+            <div n="3" type="verse">
+               <head>
+                  <hi>Verſe 3.</hi> For the rod of the Wicked ſhall not
+reſt on the lot of the Righteous, leaſt the Righteous put forth their hand
+unto Wickedneſs.</head>
+               <p>Here the Prophet plainly declareth, that the People which reſt
+under this Defence and Protection, are afflicted and ſubject to all
+Miſeries and Calamities as touching the fleſh; altho' they be compaſſed
+about with ſuch high and mighty Mountains as touching the Spirit, as Satan
+can never ſurmount, yet touching the Fleſh and the Old man, they lye open
+on every ſide to the Darts of Satan and the World; For God by theſe means
+will afflict and exerciſe the Fleſh, that Sin and the fooliſhneſs of
+the Fleſh may be mortified in them, and that ſpiritual Wiſdom and the
+inward man may increaſe. This is the cauſe why we are ac<g ref="char:EOLhyphen"/>cording to the
+Fleſh, as a broken Hedge, and as a City whoſe Walls are caſt down, and
+ſo lyeth open to the Enemies on every ſide. Wherefore there is no ſort of
+men ſo vile and abject which do not think that they may do what they liſt
+againſt the true Profeſſors of the Goſpel. Hereof come ſuch
+intollerable in<g ref="char:EOLhyphen"/>juries, horrible blaſphemies, cruel torments and bloody
+ſlaugh<g ref="char:EOLhyphen"/>ters of the Saints of God. For the Fleſh hath no Walls, no
+Mu<g ref="char:EOLhyphen"/>nitions to defend it, but the Spirit. Therefore the fleſh is in 
+<pb n="19" facs="tcp:172313:12"/>danger to all Storms and Tempeſts, broken and troden down
+of the wicked, as <hi>Iſaiah</hi> ſaith, Chap. 51. <hi>Which have ſaid
+unto thy Soul, Bow down that we may go over. Thou haſt layed thy Body as the
+ground, and as the ſtreet to them that went over.</hi> Theſe afflictions we
+muſt needs ſuffer and by patience overcome them, and withal we muſt
+beware that by theſe outward afflictions the inward man be not weakened or
+overcome; reſting in this aſ<g ref="char:EOLhyphen"/>ſured hope and truſt, that the Lord will
+never forſake us, but that we are in the boſom of the Father, and are
+cloſed within moſt ſure and ſtrong holds. So that now, altho' our
+Goods, our Wives, our Children, yea and our Lives alſo be taken from us, yet
+we ſhall never be ſpoiled of our Chriſt, by whom we are ſo ſurely
+defended, that in the midſt of all our Tentations he will make a way for us
+to eſcape, or elſe give us ſtrength to bear them.</p>
+               <p>Thus we ſee what Conſolations the Holy Ghoſt ſetteth
+forth unto them which believe the Word. For unto ſuch as look for a better
+Life then this, all things are here full of Calamities and Miſeries. Death
+followeth Death, as <hi>Paul</hi> ſaith, and we conti<g ref="char:EOLhyphen"/>nually die. One
+Tentation followeth another, until at the length by the Death of the Fleſh
+all miſeries ſhall ceaſe and have an end. This verſe therefore maketh
+much for our Comfort, admoniſh<g ref="char:EOLhyphen"/>ing us that we muſt ſuffer many troubles;
+yet ſo, that at the length we ſhall be ſafe and ſet at Liberty from
+them all, though not in this Life, yet in the Life to come, and in Eternal
+Life. And why ſhould we not thus boldly promiſe unto our ſelves,
+remain<g ref="char:EOLhyphen"/>ing under this diligent Cuſtody of the Angels, yea of the Lord
+himſelf, which is always round about his People? But here (as before I
+ſaid) we have need of Faith, that we may judge herein, not according to our
+preſent troubles and tentations, but accor<g ref="char:EOLhyphen"/>ding to the Word of Promiſe. And
+what ſhould we need any promiſes if there were no tentations? which
+tentations whe<g ref="char:EOLhyphen"/>ther they be within in the Spirit, or without in the fleſh,
+the time ſhall come when we through Chriſt ſhall have full victory
+hereof, as this verſe full of ſweet Conſolation doth promiſe unto
+us.</p>
+               <p>Notwithſtanding this promiſe ſeemeth incredible both to us
+which ſuffer, and alſo to them which perſecute and afflict us. For if we
+behold the ſame with our outward eyes, what can be <pb n="20" facs="tcp:172313:13"/>more
+falſe? yea the contrary ſeemeth to be moſt true. Behold our Saviour
+Chriſt, was he not ſo forſaken, hanging upon the Croſs, that the Rod or
+Scepter of the wicked reſted upon him? Did it not reſt likewiſe upon the
+Prophets, the Apoſtles, and other holy Martyrs? This matter then, if we
+conſider it with our outward eyes, hath another meaning then the Words do
+import. For they promiſe that the Scepter of the wicked ſhall have no power
+over the godly, and yet all ſtories and examples do teftify the contrary.
+Therefore the Holy Ghoſt calleth us back to the purpoſe and Couſel of God
+revealed in his Word, and commandeth us to weigh and conſider, not what we
+ſuffer and with our outward eyes behold, but what is decreed with the Lord in
+Heaven. And he that can ſo ſequeſter himſelf from the beholding of his
+afflictions and tentations, and yield himſelf wholly over to the Will of God,
+and there reſt, is a right Di<g ref="char:EOLhyphen"/>vine; yea he that is ignorant hereof, in true
+Divinity know<g ref="char:EOLhyphen"/>eth nothing at all. For what knoweth he which is ignorant that
+God is ſuch a God as will not ſuffer the godly to be oppreſſed of the
+wicked? For ſeeing he hath ſaid, <hi>I am the Lord thy God,</hi> he will
+never ſuffer that which is his own, to be wreſted either by the World or by
+the gates of Hell out of his hands. If he then abide and continue, they ſhall
+alſo continue for ever which are his. Thus to believe, and thus to lay hold
+on things invifible, is true Divinity and true ſpiritual Wiſdom indeed,
+whereupon we may ground this Propoſition out of the inviſible Counſel of
+God; God hateth the wicked, and loveth the juſt, <hi>ergo</hi> he will damn
+and deſtroy the wicked, and will deliver and ſave the juſt. And here we
+ſee that which is the chiefeſt thing in all the Pſalms and Prophets, to
+ſpring of the firſt Precept: <hi>I am the Lord thy God.</hi>
+               </p>
+               <p>Now have we to learn how we may apply this verſe rightly and
+to our Comfort. For true Divinity conſiſteth in uſe and practice. We are
+vexed on every ſide with cruel Biſhops, wick<g ref="char:EOLhyphen"/>ed Princes, and others which
+hate the Word of God and the do<g ref="char:EOLhyphen"/>ctrine which we profeſs. But theſe are very
+trifles, if ye com<g ref="char:EOLhyphen"/>pare them with thoſe vexations which Satan, Sin, and our
+own infirmity raiſe up in our Conſciences. We muſt learn therefore thus
+to judge of all theſe things, that they are the Rod and Scepter of the
+wicked, and to ſet the Lord againſt them, reveal<g ref="char:EOLhyphen"/>ing <pb n="21" facs="tcp:172313:13"/>his Will here in his Word, and pronouncing that he will not ſuffer
+the Scepter of the wicked to reſt upon the godly. Seeing then the ſame
+Prince promiſeth thus much unto us which hath all things in his hand, what
+can we require more? For the will of God is certain, that though he ſuffer us
+to be afflicted, yet will he not ſee us troden under foot or periſh. Thus
+muſt we apply theſe ſweet Conſolations.</p>
+               <p>What the rod ſigniſieth in the Scripture it is well known.
+Children when they are young, are corrected with a rod; and when they wax
+bigger, with a Wand or Cudgel; and if they will not ſo amend, then followeth
+the Iron rod. Hereof it com<g ref="char:EOLhyphen"/>eth that the rod ſignifieth all Power and Rule,
+which is for the Amendment and Correction of ſuch as do offend. So it is
+taken in the 110 Pſalm. <hi>The Lord ſhall ſend forth the rod of thy
+Power out of Sion:</hi> That is to ſay, thy Kingdom; For there he
+ſigni<g ref="char:EOLhyphen"/>fieth ſuch a rod whereby Kingdoms and People are governed. On this
+wiſe the holy Ghoſt permitteth here to the wicked, Do<g ref="char:EOLhyphen"/>minion and Tyranny
+over the godly, which they are compelled to ſuffer. Like as we are compelled
+not only to ſee but alſo to ſuffer the Tyranny of Antichriſt and the
+Power of his Kingdom, perſecuting, deſtroying and murthering the
+Chriſtians, and ra<g ref="char:EOLhyphen"/>ging againſt them with all kind of Tyranny. Yea we are
+Com<g ref="char:EOLhyphen"/>pelled moreover to ſuffer the Tyranny of Satan vexing and ter<g ref="char:EOLhyphen"/>rifying my
+Heart and the Hearts of the Brethren which believe in Chriſt. This Dominion
+or Tyranny the Holy Ghoſt calleth the rod of the wicked; and comforteth us,
+that as the Lord liveth, their Tyranny ſhall fall, and ſhall not reſt
+upon the Lot of the godly.</p>
+               <p>The lot of the juſt is as much to ſay as the Portion, that
+is, the Number or Congregation of the juſt. Like as Chriſt calleth them the
+<hi>Little Flock,</hi> and <hi>Paul, The poor Saints.</hi> Over theſe,
+ſaith he, although the Tyrants do rule, yet ſhall not their pow<g ref="char:EOLhyphen"/>er endure.
+Although the Perſecutors of the Church do oppreſs the faithful, yet ſhall
+they not do ſo always, neither ſhall their Counſels have the ſucceſs
+which they deſire. For they think to root out this Doctrine for ever; but
+that ſhall they never be able to do: Therefore albeit ye ſuffer in the mean
+time, ſaith the Holy Ghoſt, yet know ye, that my will is, <hi>That they
+which believe in me ſhall never periſh, but ſhall be preſerved to Life
+Ever<g ref="char:EOLhyphen"/>lasting.</hi> 
+                  <pb n="22" facs="tcp:172313:14"/>Here then have ye whereunto ye may
+truſt in all your Tentations.</p>
+               <p>But behold the reaſon which the Holy Ghoſt here uſeth to
+prove that the Scepter of the wicked ſhall not reſt upon the juſt. God is
+moved ſaith he, to help and defend the juſt. For elſe it might ſo come
+to paſs that God ſhould have no Church at all, and the juſt ſhould put
+forth their hands to Wickedneſs. So we find in <hi>Jeremiah,</hi> that before
+the People were delivered into the hands of the <hi>Babylonians,</hi> they had
+promiſe that after ſeven<g ref="char:EOLhyphen"/>ty years they ſhould return again to
+<hi>Jeruſalem,</hi> becauſe they ſhould not be brought into doubt of Gods
+Mercy, and ſo utter<g ref="char:EOLhyphen"/>ly deſpair, and falling away from God ſhould turn to
+Gentiliſm; as it is in the Pſalm, leaſt the godly ſhould turn to
+fooliſhneſs, that is to ſay, ſhould blaſpheme and become impatient,
+This is the cauſe why God joyneth the promiſe of the Word with the
+Execution and Performance of the Deed; or elſe the godly ſhould be driven
+to Deſperation. We ſee how many are caſt down with Adverſity by the
+loſs of Goods, Wife, Children, and other things which are dear unto them.
+Except therefore their minds were raiſed up again and comforted, firſt,
+with the Word and Promiſe, and then, with the Performance and Exe<g ref="char:EOLhyphen"/>cution of
+the ſame, many would ſay there were no God. There<g ref="char:EOLhyphen"/>fore God muſt needs
+ſhew himſelf to be a God, not only in Word but alſo in Deed.</p>
+               <p>
+                  <hi>David</hi> had great promiſes of God, and yet by his own
+Son he was driven out of his Kingdom, and ſo perſecuted that he was
+compelled to fly away barehead and barefoot. This was a ſore Tentation.
+Wherefore the great and ample Promiſes made unto him could never have
+raiſed him up and comforted him again, except God had indeed delivered him
+out of this great miſery and affliction. Even ſo if we had no more but the
+pro<g ref="char:EOLhyphen"/>miſes of God to ſupport us againſt the Papiſts and Adverſaries of
+the Word, yea if God did not indeed fight for us and defend us againſt their
+Tyranny, we ſhould be ſwallowed up with ſor<g ref="char:EOLhyphen"/>row, and brought even to
+Deſperation. God therefore worketh both ways; he raiſeth up with the Word
+and Promiſe, and de<g ref="char:EOLhyphen"/>livereth out of troubles and afflictions by Execution of
+the deed, that according to the ſaying of St. <hi>Paul,</hi> the tentation
+ſhould not be above our ſtrength, but ſhould have an end, and we learn 
+<pb n="23" facs="tcp:172313:14"/>by our own Experience that the firſt Commandment, <hi>I
+am the Lord thy God,</hi> is moſt certain and infallible Therefore when he
+ſaith, <hi>Leaſt the juſt ſhould put forth their hand to
+Wickedneſs,</hi> it is as much as if he ſhould ſay, Leaſt the juſt
+ſhould turn away from God and fall to Gentiliſm. For God hath a double care
+over the Faithful; firſt, that they be not overcome, but may overcome the
+tentation; and this he doth by the Word and Promiſe. The ſecond is that the
+tentation be not perpetual. Even ſo muſt we be undoubtedly perſwaded,
+that beſides the infallible promiſes which we have of the good Will of God
+to<g ref="char:EOLhyphen"/>wards us, and in the end of Everlaſting Life, we ſhall be alſo
+de<g ref="char:EOLhyphen"/>livered, and our Adverſaries deſtroyed, albeit we can ſee no manner of
+way or poſſible means how it may be done. This is it then that this verſe
+here ſetteth forth, that God is ſo careful for the ſafety of his People,
+that he ſeemeth to fear leaſt they ſhould put forth their hand to
+Wickedneſs, and fall away from him, whereby it might come to paſs that he
+ſhould have no People, and ſo there ſhould be no God. For God is the God
+of the living, and therefore he muſt needs have a People. Wherefore there
+muſt ever be ſome remaining which may praiſe and worſhip Him. If there
+muſt needs be ſuch a Number remaining, God muſt of neceſſity make an
+end alſo of tentations.</p>
+               <p>But here we muſt beware that we do not appoint the time of
+this deliverance. For before that come, God will have us tryed to the
+uttermoſt, and brought to that Extremity, that all our hope and truſt
+ſhall be utterly ſpent, and we at the point of Deſ<g ref="char:EOLhyphen"/>peration. Now, when we
+are brought into this caſe that we can ſee nothing but Deſperation, then,
+even then God ſendeth Com<g ref="char:EOLhyphen"/>fort, in Death, he ſheweth Life; and even in
+Damnation, he bringeth Salvation: briefly, of nothing he maketh all things, and
+when all hope of Remedy is paſt, then beginneth he to work, and frameth all
+new again in moſt perfect wiſe. Thus cannot the God of this World do. This
+is the fingular work of God therefore, that when thou thinkeſt thy ſelf
+clean caſt away and utterly forlorn, even then thou ſhouldſt be moſt
+ſure and ſafe, and moſt gloriouſly ſhine as the day Star in the
+Firmament. Theſe things are eaſily taught, but by Experience we find and
+feel how far they paſs all Reaſon and Power of man, and how hardly we can
+believe that God maketh all things of nothing, <pb n="24" facs="tcp:172313:15"/>that he is
+careful tor us, whether we be afflicted in the Fleſh or in the Spirit, and
+that he is more mindful of our deliverance then we our ſelves can be. Theſe
+things therefore muſt be often and diligently taught, that we may learn that
+Heavenly Wiſ<g ref="char:EOLhyphen"/>dom which the firſt Commandment ſetteth forth unto us,<note place="margin">Old things are paſſed a<g ref="char:EOLhyphen"/>way; behold all things are become
+new.</note> name<g ref="char:EOLhyphen"/>ly, that our God is ſuch an one as of old things is wont to
+make new; of poor, to make rich; of deſpiſed, glorious. And this laſt we
+would all gladly have, but that will not be, except Con<g ref="char:EOLhyphen"/>tempt and Poverty go
+before.</p>
+               <p>Here have we then a ſiugular Promiſe and Conſolation. As
+if he ſhould ſay, The Rod of the wicked grieveth you, but be of good
+Comfort my People, and patiently endure it, for I will not ſuffer the
+tentation ſo far to prevail over you that your Confi<g ref="char:EOLhyphen"/>dence and truſt in me
+ſhall utterly fail you. Storms and Tem<g ref="char:EOLhyphen"/>peſts ſhall ariſe, and your
+Dangers ſhall ſeem ſo great as tho the Waves ſhould preſently
+ſwallow you up: but I will not ſuffer you to periſh. I will bridle their
+Rage and make an end of the rod of the Wicked and Unrighteous, yet will I not
+leave you deſtitute of my Righteouſneſs. Thus do Tentations teach us the
+true uſe and meaning of the firſt Commandment, the which none without
+afflictions and tentations ſhall rightly know or underſtand.</p>
+               <p>Moreover we are here admoniſhed of the great danger that
+followeth theſe afflictions and tentations, which they that through
+impatiency forſake the Word and Faith, do fall into. Therefore the Lord here
+ſheweth himſelf ſo careful for his People, leaſt they ſhould fall
+into this danger. For their ſtate which have once forſaken the Word, is
+much more perillous then it was before; and into ſuch (as our Saviour
+Chriſt pro<g ref="char:EOLhyphen"/>nounceth in the Goſpel) do enter ſeven Spirits much more
+wicked then the firſt. We muſt therefore patiently ſuffer and perſevere
+in all tentations, and rather abide all Extremities then once ſhrink from the
+Word of Life, leaſt we be poſſeſſed with ſeven Spirits more wicked
+then the firſt. And moreover we muſt aſſuredly truſt (as we are
+taught it this verſe) that ſo long as we have a deſire and purpoſe ſo
+to do, the Lord will ne<g ref="char:EOLhyphen"/>ver for ſake us or ſuffer us to fall into this
+impiety. For here have we a manifeſt promiſe and a lively deſcription of
+the Lords ſingular care and providence over us, namely that he is mindful 
+<pb n="25" facs="tcp:172313:15"/>of the end of our tentations and afflictions, ſo that we
+only con<g ref="char:EOLhyphen"/>tinue conſtant and patient unto the end. And if the Heathen Poet
+ſaid, Endure and reſerve your ſelves for more happy things, how much more
+ſhould Chriſtians diligently ſtir up themſelves with mutual
+Exhortations to Patience and Perſe<g ref="char:EOLhyphen"/>verance, whether they outwardly ſuffer
+in things pertaining to the Body and to this preſent life, or inwardly in
+Conſcience. For we have a God which even in Death, in Hell, and in the
+midſt of all our Sins, can ſave and deliver us.</p>
+            </div>
+            <div n="4" type="verse">
+               <head>
+                  <hi>Verſe 4.</hi> Do well O Lord unto them that be good and
+true of heart.</head>
+               <p>The Prophet ſaith not here: Do well Lord to the perfect, and
+ſuch as offend in nothing: but, <hi>to the good and true of Heart.</hi> The
+good and true of Heart, are they which are of a ſingle, ſincere and upright
+Heart. For theſe are they which are moſt accepted of God, altho they alſo
+through infirmity do ſometimes offend. Now where he prayeth that God will do
+well to the good and godly, he meaneth alſo and ſecretly com<g ref="char:EOLhyphen"/>plaineth that
+the godly are in miſery and affliction, and that the ungodly do abound with
+all worldly felicity: As we ſee at this day the Enemies of the Goſpel to
+enjoy great Riches and Dig<g ref="char:EOLhyphen"/>nities, whereby they vex and oppreſs the godly.
+This is a great offence and ſtumbling-block to the godly, and therefore the
+Church hath need of this Prayer, That God would do well unto the godly, which
+truſt in him, and ſeek his Glory with their whole Heart, that they by
+ſtumbling at this offence do not fall away to impiety. This Prayer containeth
+in it a Prophecy with a promiſe, that like as he prayeth for the
+Bleſſing, Wel<g ref="char:EOLhyphen"/>fare and Proſperity of the juſt, ſo at the length it
+ſhall alſo come to paſs.</p>
+            </div>
+            <div n="5" type="verse">
+               <head>
+                  <hi>Verſe 5.</hi> But thoſe that turn aſide by their
+crooked ways, the Lord ſhall lead with the workers of Iniquity: but peace
+ſhall be upon <hi>Iſrael.</hi>
+               </head>
+               <p>He ſaith not ſimply, ſuch as turn aſide, but ſuch as
+turn a<g ref="char:EOLhyphen"/>ſide by their own Wickedneſs. For to give place to tentations by
+infirmity of the Fleſh, or weakneſs of Mind, or elſe of Faith, 
+<pb n="26" facs="tcp:172313:16"/>and ſo to decline from the right way, (which cometh to
+paſs ſometimes even in the Saints, as the Example of <hi>Peter</hi>
+teach<g ref="char:EOLhyphen"/>eth) is one thing, and to fall away through wickedneſs and
+perverſneſs of Heart, is another: which cannot be in the chil<g ref="char:EOLhyphen"/>dren of God,
+but properly belongeth to the wicked and godleſs. This ſort of men hath
+ever corrupted the Church from the A<g ref="char:EOLhyphen"/>poſtles time, and with a ſhew of
+holineſs hath deceived the ſim<g ref="char:EOLhyphen"/>ple, which becauſe God puniſheth them
+not, but ſpareth them and ſuffereth them to proſper in this World, become
+ſo proud that they will be counted amongſt the holieſt, and of the World
+are ſo commonly taken. We ſee that not only the godly are mixed with the
+wicked in this World, but in the Lords floore alſo the Wheat lyeth hidden
+under the Chaſſe. We muſt pray therefore that God would bring theſe
+Hypocrites to light, and give unto them their juſt Puniſhment with the
+workers of Ini<g ref="char:EOLhyphen"/>quity. Then ſhall peace enſue to the Church of God. For
+whilſt the Lord poureth forth his vengeance upon the wicked which vex and
+perſecute his true members, he gathered toge<g ref="char:EOLhyphen"/>ther the good and upright of
+Heart, and openly declareth his fatherly good will and tender love towards
+them.</p>
+            </div>
+         </div>
+         <div n="Psalm 129" type="commentary">
+            <head>The Commentary of Dr. <hi>Martin Luther,</hi> upon the
+<hi>CXXIX Pſalm.</hi>
+            </head>
+            <epigraph>
+               <q>They have oftentimes afflicted, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>THis Pſalm conſiſteth of two parts.<note place="margin">The
+Argu<g ref="char:EOLhyphen"/>ment of the Pſalm.</note> In the former he giveth thanks to God for the
+defence and continual deliverance of the People of God. In the latter part he
+maketh his Prayer againſt the Adverſaries, and in praying he propheſieth
+withal. Both theſe ſerve for our inſtruction, and alſo contain an
+Exhor<g ref="char:EOLhyphen"/>tation <pb n="27" facs="tcp:172313:16"/>to patience under the Croſs, which
+pertaineth not to one age or time, but as the continual Hiſtory of the Church
+doth ſhew, to all times, and to the whole life of man. Moreover we do here
+comprehend both Churches, of the <hi>Jews,</hi> and of the <hi>Gentiles,</hi>
+as <hi>Paul</hi> alſo in a manner joyneth them both together, when he
+ſaith, <hi>Firſt to the Jew, and then to the Grecian.</hi> For as touching
+the Church or People of the <hi>Jews,</hi> it appeareth by the Hiſtories,
+that they were placed in the midſt of their Ene<g ref="char:EOLhyphen"/>mies, as a goodly Roſe in
+the midſt of Thornes. On the Eaſt ſide, the <hi>Iſmaelites,</hi> the
+<hi>Arabians,</hi> and other cruel People vexed them. On the South part, the
+<hi>Egyptians,</hi> the <hi>Ethiopians,</hi> the <hi>Troglodites,</hi> the
+<hi>Philiſtines,</hi> and other like. On the North ſide, the
+<hi>Aſſyrians,</hi> &amp;c. So the Church after the deſtruction of the
+Synagogue, is compaſſed every way with Enemies, and Chriſt, according to
+the Pſalm, reigneth in the midſt of his Enemies. Thus were they oftentimes
+and many ways afflicted. But herewithal God ſhewed this miracle, that when
+they were ſo afflicted, he always delivered them. And thus was the King<g ref="char:EOLhyphen"/>dom
+of <hi>Iſrael</hi> a miraculous Kingdom, in that the Lord when he would
+correct and chaſtiſe them, ſuffered the <hi>Philiſtines, E<g ref="char:EOLhyphen"/>domites,
+Moabites, Aſſyrians</hi> and <hi>Babylonians</hi> to have victory over
+them. Again, when they ſeemed to be utterly oppreſſed, they
+victoriouſly prevailed againſt their Enemies. So continued this Kingdom in
+deſpite of the cruel Nations round about it, and of Satan himſelf: as is to
+be ſeen in the Books of the <hi>Kings</hi> and alſo of the
+<hi>Chronicles.</hi> Now, becauſe this People had both threatnings and
+promiſes ſet before them, as touching their afflictions and deliverance,
+this was unto them a great Conſo<g ref="char:EOLhyphen"/>lation, even when they were afflicted and
+ſpoiled, that they knew that all theſe things came to paſs not by the
+Will or Pow<g ref="char:EOLhyphen"/>er of their Enemies, and much-leſs by their Righteouſneſs or
+Deſerts, but only by the Will of God thus puniſhing and chaſtiſing his
+People, yea threatning and forewarning them by the Prophets, that he would ſo
+puniſh the diſobedient. This is no ſmall Conſolation, that in thy
+Affliction and Calamity thou mayeſt be able to ſay; This is the ſcourge
+of God, thus correcting me, and viſiting my Sins; It is not the Wrath of God,
+or the merit and deſerving of my Adverſary.</p>
+            <pb n="28" facs="tcp:172313:17"/>
+            <p>Theſe things muſt we apply unto our ſelves alſo, to the
+end that when we be oppreſſed, we may comfort our ſelves that we are not
+oppreſſed by the power of Death, Sin, Hell, or any crea<g ref="char:EOLhyphen"/>ture, but by the
+will of God our Creator, afflicting us and pu<g ref="char:EOLhyphen"/>niſhing our Sins and
+ingratitude; and yet ſo, that he leaveth unto us this fatherly promiſe,
+that he will not forſake us. And ſuch a figure of the whole Kingdom of
+Chriſt is ſet forth in the <hi>Apocalyps.</hi> For how much doth it ſpeak
+of evil Angels, of cru<g ref="char:EOLhyphen"/>el beaſts, and ſuch other Plagues of the Church,
+which ſhould enter into the Church and the Kingdom of Chriſt, God ſo
+per<g ref="char:EOLhyphen"/>mitting? Notwithſtanding Conſolation followeth afflictions and
+calamities, and though the Church be never ſo ſore afflicted, yet ſhall
+it continue and endure, and at the length ſhall overcome and victoriouſly
+triumph.</p>
+            <p>But this Pſalm agreeth eſpecially unto our time, wherein the
+Church hath been moſt grievouſly afflicted both under the <hi>Turks</hi>
+and alſo under the <hi>Romiſh</hi> biſhops, yea and as it were utterly
+aboliſhed: So that if ye weigh the matter well, it may appear that the
+Condition of the <hi>Jews</hi> in <hi>Babylon</hi> was bet<g ref="char:EOLhyphen"/>ter then the ſtate
+of the Church under Antichriſt; where the true uſe of the Sacraments was
+taken away, the benefit of Chriſt darkned, faith extinguiſhed, no true
+ſervice of God uſed, no true good works exerciſed; gnerally, all things
+which per<g ref="char:EOLhyphen"/>tain to true Religion were clean aboliſhed, or moſt miſerably
+deformed and defaced. Wherefore, like as the <hi>Jews</hi> in <hi>Baby<g ref="char:EOLhyphen"/>lon</hi>
+were put from the ſight and uſe of the Temple, the Sacrifices, the
+Ceremonies, and all politick Government: ſo the Church un<g ref="char:EOLhyphen"/>der Antichriſt
+had no true miniſtry, no true ſervice of God, not her own Kingdom and
+Government, but was conſtrained to obſerve and keep the Heatheniſh Rites
+and Ceremonies of the Papiſts. Thus was the Wrath, and thus have been the
+Puniſh<g ref="char:EOLhyphen"/>ments of God in a manner all one, in the Church of the <hi>Jews</hi>
+and the <hi>Gentiles.</hi>
+            </p>
+            <p>Wherefore it is moſt neceſſary that we lay hold upon this
+Conſolation, that, as the Pſalm ſaith, We are afflicted, we are caſt
+down, we are troden under foot, but we are not overcome. For the Church ſhall
+ſtand and remain invincible, notwith<g ref="char:EOLhyphen"/>ſtanding that through great
+incredulity and incredible in<g ref="char:EOLhyphen"/>firmity, the victory thereof is hidden and cannot
+be ſeen. As <pb n="29" facs="tcp:172313:17"/>it was under the <hi>Pope,</hi> where all
+Schools and all Churches taught nothing elſe but the blaſphemous Doctrine
+of the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Biſhops, and doting Dreams of the Monks. This was
+the very ſame thing that the Pſalm 73. complaineth of, where it ſaith,
+<hi>We ſee not our ſignes:</hi> and yet God had even then his Church,
+although it was very little, obſcure, and miſerably deformed. Before the
+Kingdom of the <hi>Romiſh</hi> Antichriſt, what a ſwarw of Hereticks
+ſprang up? Of whom alſo the Church was ſore vexed and afflicted, even as
+the <hi>Jews</hi> were afflicted of the Nations which dwelled near unto them.
+And like as the Captivity followed that affliction of the <hi>Jews,</hi> ſo
+the King<g ref="char:EOLhyphen"/>dom of the <hi>Romiſh</hi> Biſhops was that Captivity which
+follow<g ref="char:EOLhyphen"/>ed the out ragious fury of the Hereticks, and out of the which alſo
+have flowed all the evils, and plagues which have been e<g ref="char:EOLhyphen"/>ver ſince in the
+Church, as out of a foul ſink, and filthy pud<g ref="char:EOLhyphen"/>dle. But now by the great mercy
+of God the Captivity begin<g ref="char:EOLhyphen"/>eth to be turned, the Temple is repaired, and the
+true Service of God reſtored.</p>
+            <p>This Pſalm after my judgement, ſpeaketh generally of all
+ſuch troubles and afflictions of the Church, as have been at all times and in
+all ages; As firſt, that the Kingdom of the <hi>Jews</hi> when they were yet
+under good Kings, was mightily aſſailed, but yet not utterly overcome; And
+that the people afterwards were ſpoyled of the <hi>Aſſyrians</hi> and
+<hi>Babylonians,</hi> and carried a<g ref="char:EOLhyphen"/>way Captive, but not clean forſaken. For
+they were again de<g ref="char:EOLhyphen"/>livered out of Captivity, and in their own land enjoyed the
+promiſe concerning Chriſt. Thus ſpeaketh the Pſalm firſt of the
+<hi>Jewiſh Church.</hi> Afterwards it comprehendeth as a Prophecy, the State
+and Condition of the Church of the <hi>Gentiles;</hi> to wit, that God would
+preſerve and defend it againſt all Here<g ref="char:EOLhyphen"/>ticks, againſt all the rage and
+fury of the World, againſt the Kingdom of the <hi>Romiſh</hi> Antichriſt,
+and moreover againſt all the tentations of Sin, which vex and oppreſs the
+Conſcience. Thus muſt we apply this Pſalm to all times and ages of the
+Church, to all changes and alterations, all dangers of the World, the Fleſh,
+Sin, the Law, Death, and the Gates of Hell. For the World aſſaileth it with
+power and wiſdom; the Devil, with deſperation and dubitation; Hereticks
+with errors in Faith and Religion, and the Conſcience with Sins. In all
+theſe Perils we <pb n="30" facs="tcp:172313:18"/>ſay, Bleſſed be the Lord God, who
+ſuffereth us not to be temp<g ref="char:EOLhyphen"/>ted above that we are able to bear. Indeed we
+muſt be temp<g ref="char:EOLhyphen"/>ted and tryed, but in the Tentation he will give an outſcape;
+beſides this, that he giveth us ſtrength alſo to bear the Tenta<g ref="char:EOLhyphen"/>tion
+until the time of deliverance come. This benefit <hi>David</hi> here ſetteth
+forth, and ſheweth unto us the ſtate of his people, to the end we may
+thereby learn this Comfort, that like as he p<hi rend="sup">r</hi>e<g ref="char:EOLhyphen"/>ſerved that People, even
+ſo will he alſo preſerve us. For we have one and the ſame God, the
+ſame Spirit, the ſame Word, the ſame Promiſes, and briefly all things
+elſe whatſoever. Wherefore we may ſay and ſing with <hi>David;</hi>
+            </p>
+            <div n="1,2" type="verse">
+               <head>Verſe 1. <hi>They have oftentimes afflicted me from my
+youth, may</hi> Iſrael <hi>now ſay:</hi> Verſe 2. <hi>They have
+oftentimes afflicted me from my youth, but they could not prevail againſt
+me.</hi>
+               </head>
+               <p>He nameth no certain Enemy, to the end he may compre<g ref="char:EOLhyphen"/>hend all.
+Where he ſaith, from my youth, he underſtandeth all the time from their
+primitive Church (as we call it) until <hi>Iſrael</hi> began firſt to be
+the People of God. For albeit we ever praiſe thoſe things which are moſt
+ancient and of greateſt anti<g ref="char:EOLhyphen"/>quity (as the primitive Church is indeed worthy
+to be praiſed) yet God regardeth not this difference. For in all times, and
+even in the laſt ages of the Church he gave notable Prophets, to the people
+of <hi>Iſrael;</hi> as before the Captivity, <hi>Iſaiah</hi> of all other
+the moſt excellent; after the Captivity, <hi>Aggaus, Zachary</hi> and others.
+In the mean time between <hi>Moyſes</hi> and theſe, were <hi>He<g ref="char:EOLhyphen"/>lias,
+Helizeus,</hi> &amp;c. So we ſee that the Primitive Church was more pure from
+Hereticks and wicked Opinions. But yet not<g ref="char:EOLhyphen"/>withſtanding there were ſome
+notable Prophets and other ex<g ref="char:EOLhyphen"/>cellent men even in the latter times. And when
+the root of <hi>Jeſſe</hi> ſeemed now to be withered, yet God raiſed up
+<hi>Anna, Simeon, Zachary</hi> and <hi>Elizabeth.</hi> For God preſerveth his
+Church though it be never ſo much aſſailed and oppreſſed, according
+to his pro<g ref="char:EOLhyphen"/>miſe. Only let us open our eyes that we may ſee from whence this
+cometh.</p>
+               <p>And here we may not look to thoſe things which the World
+eſpecially eſteemeth and magnifieth, but we muſt behold the 
+<pb n="31" facs="tcp:172313:18"/>Church as it is afflicted, oppreſſed, and full of
+Calamity. For this is the true face of the Church of God, that it is weak,
+en<g ref="char:EOLhyphen"/>vironed with all deadly Engines, and compaſſed with all the furies of
+the Devil, the World, the Fleſh, Sin and Death. Theſe things he that will
+not behold, but flyeth and abhorreth them, ſhall never find out the true
+Church indeed. For that is not the the true picture and image of the Church
+which the Painters ſet forth, which paint her as a goodly Virgin, as a City
+well armed, adorned and beautified. Indeed that is a true picture, but not
+according to the Eyes of the Fleſh. But ſpiritual Eyes do ſee this great
+Beauty, that Chriſt is her Husband, and begot her unto himſelf by the Holy
+Ghoſt, beautified her and made her glori<g ref="char:EOLhyphen"/>ous with his own blood, with his
+merits and with his righte<g ref="char:EOLhyphen"/>ouſneſs. Of all theſe things the fleſh can
+ſee nothing, can judge nothing, but ſeeth rather the contrary, how ſhe is
+ſubject to moſt bitter hatred, malice, vexations and torments. Where<g ref="char:EOLhyphen"/>fore
+if it would paint her out in ſuch ſort as he ſeeth and behol<g ref="char:EOLhyphen"/>deth her,
+then muſt it paint and ſet her forth as a deformed and poor maiden,
+ſitting in a dangerous Wood or Deſac, in the midſt of cruel and hungry
+Lyons, Bears, Wolve, Swine, and Venemous Serpents: alſo in the midſt of
+outragious and furi<g ref="char:EOLhyphen"/>ous men, attempting with Sword, Fire and Water to deſtroy
+her, and to root her out from the face of the Earth. As there is in the
+<hi>Apocalyps</hi> ſet forth a goodly Picture,<note place="margin">Chap.
+12.</note> (then the which there is nothing more excellent in that book) that
+the Church as a de<g ref="char:EOLhyphen"/>ſolate woman, flyeth from the old Serpent or Dragon
+perſecu<g ref="char:EOLhyphen"/>ting her and her Child. Wherefore theſe words which <hi>David</hi>
+here uſeth, may very well be applied to her: <hi>Many times have mine Enemies
+afflicted me, many times have they vexed me.</hi>
+               </p>
+               <p>But this affliction ſeemeth rather to be an utter
+Deſtruction, if we follow the judgment of the fleſh; As if the Enemies did
+ſo prevail and overcome, that the Church were utterly oppreſſed and
+vanquiſhed for ever: As we all find by our own Experi<g ref="char:EOLhyphen"/>ence in our Conflicts
+which privately we ſuffer in our Hearts, when Satan terrifieth and
+confoundeth our Conſciences. For then are raiſed up ſuch terrors, that no
+man can otherwiſe judge but that the victory is Satans, oppreſſing us
+with heavy and bitter Cogitations, with Tentations, Vexation, and An<g ref="char:EOLhyphen"/>guiſh of
+Spirit, and ſpoyling us (as to the fleſh it ſeemeth) of all 
+<pb n="32" facs="tcp:172313:19"/>the ſweet Conſolations which by the merit of Chriſt
+and the Word are offered unto us. According to this ſence we may well ſay,
+<hi>Oftentimes have they afflicted me.</hi> For this ſeemeth to be not only
+an affliction, but an utter Deſolation and Deſtruction. As we privately
+feel this every one in our own Hearts and Conſci<g ref="char:EOLhyphen"/>ences; ſo the whole body
+of the Church in all times doth con<g ref="char:EOLhyphen"/>feſs, that it is vehemently aſſailed
+with ſtrong and mighty Ar<g ref="char:EOLhyphen"/>mies of moſt deadly Enemies of all Nations, and
+oppugned with the Engines of all Tentations and Tribulations, even from her
+youth, that is, from the time that when the People were deli<g ref="char:EOLhyphen"/>vered out of
+<hi>Egypt,</hi> they began to be known from other Nati<g ref="char:EOLhyphen"/>ons, and to be the
+people of God.</p>
+               <p>But here the Church and the Children of God comfort and raiſe
+up themſelves again, having good Experience that in all theſe Calamities
+God ſhewed forth his Power, and not only re<g ref="char:EOLhyphen"/>mitted their Sin, but alſo
+turned away the puniſhment there<g ref="char:EOLhyphen"/>of, ſo that ſtill they remained a
+Church, and the practices of their Enemies were brought to nought. Wherefore
+the Prophet here, not only repeateth the danger and calamity of the Church, but
+with great joy he addeth withal an Exhortation, that every member of this body
+ſhould praiſe the mercy and goodneſs of the Lord, and ſay. <hi>They
+could not prevail againſt me.</hi> This is a ſingular Conſolation, not
+only for the whole Church of God, but alſo for every one of us particularly,
+againſt the proud brags of our Enemies, and the great hope which they have
+conceived, that they ſhall prevail againſt us. Hereticks and Sectaries do
+glory that they ſhall have the Victory. The Pope vaunting of his own
+ſtrength, and the power of Princes, cryeth out; We ſhall overcome. Satan
+joyneth with them both, and raiſeth up ſuch troubles, that it ſeemeth
+doubtful to whom the victory will fall. This oppreſſeth, not only every man
+privately, with great heavineſs and ſorrow, but alſo the whole Church. As
+we by Experience did prove in the Aſſembly gathered at <hi>Auguſta,</hi>
+where it ſeemed that our Enemies ſhould utterly have ſwallow<g ref="char:EOLhyphen"/>ed us up.
+But did not we there find theſe words to be full of Conſolation? They could
+not prevail. This Conſolation we muſt hold faſt even when we are killed,
+as by the Examples of the primitive Church we are taught. For the Church is as
+it were watered with the blood of the faithful, that the greater 
+<pb n="33" facs="tcp:172313:19"/>inccreaſe may come thereof. Now, like as theſe words of
+the Prophet are rightly applyed to that perſecution which is done with the
+ſword, ſo muſt they be applyed alſo to the aſſaults of Hereticks
+and Enthuſiaſts For it is their property to boaſt and brag of the
+Conqueſt, and always to triumph before the victory. But how ſoever our
+adverſaries triumph and glory, let us en<g ref="char:EOLhyphen"/>deavour to hold faſt the word, and
+whatſoever we do, let us ap<g ref="char:EOLhyphen"/>ply it wholly to the amplyfying of the Kingdom of
+Chriſt and his word. If then (as needs it muſt be) aſſaults and battels
+do fol<g ref="char:EOLhyphen"/>low, yet let us ſing with <hi>David, They could not prevail.</hi> For
+albeit they kill us, yet neither the Pope, nor any other hereticks, nor the
+Turk, nor Satan himſelf, ſhall ever be able to quench the Word: Neither yet
+ſhall they prevail againſt us if we ſtedfaſt<g ref="char:EOLhyphen"/>ly abide in the Word.
+Indeed this will we grant unto Satan, that he is ſtronger than we, and vexeth
+us many wayes. For many are the troubles of the juſt, but God will deliver
+them out of all. And why? Becauſe it is the word of God which they profeſs
+and teach; and moreover it is Gods own cauſe which they defend. Wherefore
+although the Pope attempt and pra<g ref="char:EOLhyphen"/>ctiſe never ſo much miſchief, and go
+about to ſtir up the whole world againſt us; although falſe brethren
+which walk not in true and ſound doctrine, continually vex us, although Satan
+himſelf never ceaſe to raiſe up the gates of hell againſt us, yet will
+we ſing with <hi>David</hi> even to the end, <hi>They could not prevail;</hi>
+yea and that only becauſe of the word.</p>
+            </div>
+            <div n="3" type="verse">
+               <head>
+                  <hi>Verſe 3.</hi> The Plowers plowed upon my back, and they
+made long furrows.</head>
+               <p>See what unlike and almoſt contrary things he joyneth here
+together. Before he comforted the faithfull, that the enemies ſhould never be
+able to do any thing againſt the Church, becauſe it is invincible and
+cannot be overcome: and here he complay<g ref="char:EOLhyphen"/>neth that they plow upon the backs of
+the Church, and make ſuch furrow, as ſeem to be of an infinite length. This
+is an offence therefore which vehemently troubleth the godly, that God
+ſuffereth Satan and the world ſo long to rage, ſo long to vex and afflict
+the Church, that he giveth ſucceſs unto their wicked counſels and
+attempts; that he ſuffereth the ungodly <pb n="34" facs="tcp:172313:20"/>even then to
+proſper when they are moſt worthy to be puniſh<g ref="char:EOLhyphen"/>ed with all manner of
+torments, and utterly conſumed. On the othe other ſide, the godly, the more
+they pray, and the more they hope, the leſs ſeemeth their prayer and their
+hope to take effect: Every day are they more and more afflicted: every day
+there is leſs and leſs hope left. Wherefore this ſimilitude is well
+applied unto them in that they are compar'd to a ground which is continually
+plowed; wherein ſuch furrows are drawn as ſeem to have no end; as though
+there were no God which either ſeeth their calamity, or the impiety and
+outragious cruelty of the e<g ref="char:EOLhyphen"/>nemies of the word. He ſignifieth therefore that
+they have need of continual patience, not for a day or two, but all the days of
+their life. So that they which have the word, muſt aſſuredly pur<g ref="char:EOLhyphen"/>poſe
+and determine, never to depart from God, although they ſhould ſuffer the
+ſame afflictions a thouſand years together. How many have we ſeen in
+theſe our days which have fallen away, (yea and ſuch alſo as ſometime
+did ſtand) when the fruit of the word was hindred through Perſecution, like
+as the Sun dryeth up and withereth the Corn that is ſown in a ſtony
+ground?</p>
+               <p>Wherefore we muſt learn that the patience of the faithful, as
+it is in this verſe deſcribed, is ſuch as is ready to offer their backs
+unto the Plowers, and to ſuffer not for a day nor for a year, but for the
+time of their whole life. For he compareth af<g ref="char:EOLhyphen"/>flictions to the long plowing on
+the back of the faithful: Like as our Saviour Chriſt alſo ſignifieth,
+when he ſaith, <hi>He that continueth to the end ſhall be ſaved.</hi> For
+to begin is not enough. And that patience which hath her bounds and limits
+preſcri<g ref="char:EOLhyphen"/>bed, may be found even among the Gentiles. But the patience of
+Chriſtians is perpetual, that is to ſay, ſuch a patience as ſee<g ref="char:EOLhyphen"/>meth to
+be infinite and without end; for the end thereof doth not appear. Like as on
+the other ſide, the end of their conſolati<g ref="char:EOLhyphen"/>on appeareth not. So that
+thoſe things which ſeem to be moſt contrary, are here joyned together;
+that is to ſay, the length and the long continuance of the furrows on the
+back of the faithful, and the victory of the faithful, ſinging of thoſe
+which drive the Plow, <hi>They could not prevail.</hi>
+               </p>
+               <p>Morever, this great and long continuance of the furrows on the
+back of the faithful, includeth ſuch an offence as no car<g ref="char:EOLhyphen"/>nal 
+<pb n="35" facs="tcp:172313:20"/>wiſdom is able to overcome; namely that the wicked do not
+only proſper, but their felicity alſo continueth long, ſo that it
+ſeemeth to be as a reward of their Tyranny, their perſe<g ref="char:EOLhyphen"/>cution and malice
+againſt the Church. For if God would ſuffer their tyranny but for a little
+time, and ſpeedily reward them according to their deſerts, we ſhould all
+then ſay that God is mindful of his children, and angry with the wicked. But
+now, ſince impiety and Wickedneſs flouriſheth many years toge<g ref="char:EOLhyphen"/>ther, and
+the wicked ſtill continue and increaſe in great felici<g ref="char:EOLhyphen"/>ty, without
+puniſhment, the ſame is verified of them which <hi>Diogenes</hi> ſaid of
+<hi>Harpalus,</hi> That they ſeem to give a lively te<g ref="char:EOLhyphen"/>ſtimony againſt the
+Gods. Yea the godly are ſo vehemently tempted thro' this long continuance,
+and fall ſo far, that they think God hath no regard of them. Wherefore we
+muſt ſo arm our ſelves with Chriſtian patience, that albeit we feel the
+tedi<g ref="char:EOLhyphen"/>ous and long continuance of theſe furrows, we be not therefore offended,
+but when one tentation is overcome, we muſt prepare our ſelves to another.
+For our backs muſt be always ready to bear the long continuance of theſe
+furrows.</p>
+               <p>This is the firſt part of the Pſalm, in the which he
+confeſſeth the divine miracles and miraculous power of God, whereby he
+preſerveth his children not onely againſt the world, but alſo againſt
+Sin, Death and the Devil, and praiſeth God for that he giveth victory to
+thoſe that are overcome, and putteth thoſe to flight which do overcome.
+This joyful end and this ſucceſs he willeth us to look and wait for, and
+exhorteth us to pati<g ref="char:EOLhyphen"/>ence. Now he turneth himſelf to prayer, and not only
+prayeth but alſo promiſeth to the enemies of the Goſpel, that although
+they obſtinately continue in afflicting the faithful without check or
+puniſhment, yet ſhall their ruine and overthrow be ſuch, that they
+ſhall never riſe again; as experience doth ſhew. For I pray you, what
+Kingdom from the beginning of the world hath always continued and proſpered?
+The places and ſpaces of the earth do remain void and deſolate, and the
+Kingdoms are gone as though they had never been. Again, the cruelty and tyranny
+of the Kingdoms of the world was never ſo great, that it was able to
+oppreſs the Church. For the Church ſtill conti<g ref="char:EOLhyphen"/>nueth and ſhall continue
+to the end of the vvorld, as follvveth.</p>
+            </div>
+            <div n="4" type="verse">
+               <pb n="36" facs="tcp:172313:21"/>
+               <head>
+                  <hi>Verſe 4.</hi> The Righteous Lord hath cut the cords of
+the wicked.</head>
+               <p>Theſe words are ſo full of conſolation, that to the
+children of God in their calamities and afflictions, nothing can be more
+comfortable. For they know that no munitions, no furniture of war can be ſo
+ſtrong. Firſt of all therefore, weigh and conſi<g ref="char:EOLhyphen"/>der why he calleth the
+Lord <hi>Righteous,</hi> and ye ſhall ſee that he ſo doth, becauſe
+that, when a man conſidereth <hi>according</hi> to the judgment of the
+fleſh, the things which are here done, and how God governeth and ruleth the
+ſame, it ſeemeth no otherwiſe but that he is unrighteous and unjuſt in
+ſupporting the tyran<g ref="char:EOLhyphen"/>ny of the wicked with great riches, power, dignity,
+<hi>&amp;c.</hi> When reaſon ſeeth this, it can judg nothing elſe, but
+that if there be a God, he is unjuſt. For firſt of all thus doth reaſon
+gather: If there be a God, he is able to reſiſt the wicked, and utterly to
+de<g ref="char:EOLhyphen"/>ſtroy them. For to be a God is to be Almighty. Again, thus carnal reaſon
+argueth: If there be a God, he muſt needs know thoſe things which are done
+in the world; for it cannot be ſaid of God, that he is ignorant of any thing.
+Now what elſe fol<g ref="char:EOLhyphen"/>loweth hereof, but that if God know theſe things to be
+cruelly and unjuſtly done, and he is able to reſiſt them, he ought alſo
+to be no leſs willing to do the ſame. For if we think that he will not do
+that which he knoweth and is able to do, it muſt follow that he is not good,
+but evil; not juſt, but unjuſt. Now lay theſe things together. If God
+have power, wiſdom and good<g ref="char:EOLhyphen"/>neſs in him; if he be able to help; if he know
+how, and alſo be willing to help; why are all theſe things done and
+governed in the world in ſuch ſort, that the wicked have power, riches
+&amp; dignity, as a reward of their impiety? and contrariwiſe the godly for
+their piety and godlineſs are many ways and moſt cruelly afflicted? All
+theſe things are a lively teſtimony againſt God, as before we ſaid of
+<hi>Diogenes.</hi> This argument of <hi>Epicu<g ref="char:EOLhyphen"/>rus</hi> and ſuch like
+Atheiſts, is to the fleſh invincible. Wherefore reaſon being altogether
+blinded and wrapped in theſe ſnares, inclineth to this opinion, That there
+is no God, or elſe that he regardeth not the affairs of men.</p>
+               <p>Of this offence and ſtumbling block the holy Ghoſt warneth
+us, when he attributeth this name unto God, that he is righte<g ref="char:EOLhyphen"/>ous, 
+<pb n="37" facs="tcp:172313:21"/>whom unrighteouſneſs and impiety pleaſeth not.
+There<g ref="char:EOLhyphen"/>fore although he ſuffer the wicked to flouriſh for a time, yet at the
+laſt he cutteth their cords, that is, he deſtroyeth both their power and
+them, according to that ſaying,<note place="margin">Pſal. 5.</note> 
+                  <hi>Thou
+art not a God that loveth wickedneſs.</hi> Wherefore let Chriſtians learn
+to judge, not by that which preſently they feel, but by that which the Word
+of God promiſeth, and ſhall aſſuredly come to paſs; to wit, That the
+wicked, when they have long plowed upon the backs of the faithful, and many
+ways afflicted them, ſhall periſh at the length. For God is juſt, and his
+juſtice will not ſuffer the righteous to be oppreſſed.</p>
+            </div>
+            <div n="5" type="verse">
+               <head>
+                  <hi>Verſe 5.</hi> Let them that hate Sion be confounded and
+turned back.</head>
+               <p>This (as before I have ſaid) is a Prayer. But ye know that in
+every Prayer there is a Promiſe included, which Promiſe this word
+<hi>Righteous</hi> doth expreſs in the former verſe with a ſingu<g ref="char:EOLhyphen"/>lar
+vehemency, to the end we ſhould not murmur, or blaſpheme God, as though he
+were not mindful of us, or had not regard of us. Now, where he ſaith, <hi>Let
+them be confounded and turn<g ref="char:EOLhyphen"/>ed back;</hi> it is an expoſition of that which
+he ſaid before, that their cords ſhould be cut, that is to ſay, their
+Kingdoms, their Power, their Riches, their Laws, and finally their whole
+poli<g ref="char:EOLhyphen"/>tick body and common weal ſhould be brought to nought: as it befell to
+<hi>Babylon, Ninive, Jeruſalem, Athens, Corinth, Thebes, Rome,</hi> and
+briefly to all theſe Kingdoms and Common-weales, which did not ſubmit
+themſelves to the Goſpel. For when they proudly ſtretched out their necks
+and ſet themſelves a<g ref="char:EOLhyphen"/>gainſt Chriſt their King, and by their power
+ſought to oppreſs him, they were deſtroyed. In like manner muſt we
+alſo pray, and certainly look for the execution of Gods vengeance upon
+thoſe which at this day have ſet themſelves againſt the Goſpel; as
+the Pope and his Biſhops, with all their faction, and with all the Kings and
+Princes of the earth which maintain and defend their impiety; for at the laſt
+they ſhall be confounded. But the Goſpel and the Word of the Lord ſhall
+endure for e<g ref="char:EOLhyphen"/>ver. For the name of Chriſt ſhall never be oppreſſed, but
+be<g ref="char:EOLhyphen"/>ing faithfully called upon, ſhall always be ready to help the afflicted,
+and ſhall cut the cords now of the wicked man, and now of that.</p>
+               <pb n="38" facs="tcp:172313:22"/>
+               <p>Thus the Holy Ghoſt comforteth us ſundry ways. For when we
+have learned that Satan is ſuch a Spirit as never ceaſeth to tempt and to
+vex us, (ſo that when he cannot overcome us by the greatneſs and multitude
+of tentations, he goeth about to do it by the tediouſneſs and long
+continuance thereof) he would have us to comfort our ſelves herewith, that
+albeit theſe tentations continue long, yet notwithſtanding they ſhall
+have an end. And ſince we are forewarned both of the continuance &amp; of the
+end thereof, it is the more eaſy for as to bear them. Here is to be noted
+alſo that he ſheweth to whom he wiſheth evil, namely to thoſe which
+hate <hi>Sion.</hi> And that hatred which they bare againſt <hi>Sion,</hi>
+was an hatred againſt God. For in that Satan hateth the Church, he doth it
+not only in reſpect of men, but becauſe he hateth God himſelf, whom the
+Church praiſeth and magnifieth. Moreover, <hi>Sion</hi> was a place which God
+had choſen unto himſelf. Like as therefore God had cho<g ref="char:EOLhyphen"/>ſen that place to
+ſhew his great love towards it; ſo had Satan choſen the ſame to ſhew
+his malice againſt it, and with all his power to vex it. In like manner, not
+only Satan, but alſo the malignant Church of the <hi>Pope,</hi> doth
+perſecute us; not becauſe we are evil in the ſight of the World; for this
+they could well ſuffer, yea and would be glad if they might hear that we are
+Whoremongers and Murtherers as they are: But the true cauſe why they ſo
+deadly hate and perſecute us, is this, for that it grieveth them, that we in
+their eyes are innocent as touching the ſecond table, and alſo obedient to
+the firſt; wherein we are commanded to honour, ſerve, and praiſe the
+Lord; to fear him, and truſt in his Mercy, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="6" type="verse">
+               <head>
+                  <hi>Verſe 6.</hi> Let them be as the graſs on the tops of
+the houſes, which withereth afore it cometh forth.</head>
+               <p>This is a goodly Pſalm, for the ſundry, excellent, and
+moſt apt ſimilitudes contained therein, whereby the Holy Ghoſt paint<g ref="char:EOLhyphen"/>eth
+out thoſe great Majeſties and Principalities of the World, which fight
+againſt the the Goſpel. A little before he compared them to plowers drawing
+out furrows of a marvellous length; to whom he ſo compareth them, not in this
+reſpect, as though it were granted unto them ſo long to abuſe their
+power, wealth; <pb n="39" facs="tcp:172313:22"/>and riches; but in reſpect of the great
+Tediouſneſs, Grief, and anguiſh of thoſe which ſuffer the Plowers,
+the Furrows, the Wounds, and treading under foot; for unto them it ſeemeth a
+tedious, a long, and as it were an infinite Plowing. Where<g ref="char:EOLhyphen"/>fore they deſire
+to be delivered, and never ſo little tarrying (through this tediouſneſs
+and anguiſh of heart) ſeemeth to them intollerable. Againſt this
+Wearineſs and thi, Tediouſneſs therefore, he comforteth the faithful with
+this ſimilitude, <hi>of graſs in the top of the houſe.</hi> As if he
+ſaid, Why ſeemeth the time ſo long, and tedious unto thee? Why doſt
+thou not learn to underſtand what theſe Plowers thy Adverſaries be?
+Didſt thou never ſee graſs growing on the tops of houſes? Who did ever
+complain that the graſs flouriſhed ſo long? who ever went about to pluck
+it up? As though it were not wont of it ſelf to wither and vaniſh away.
+Learn therefore that the very ſame is the ſtate and condition of thine
+Adverſaries. Thus with one ſimilitude he ſighteth againſt another.<note place="margin">He ſetteth the ſimilitude of the graſs in the houſe top,
+a<g ref="char:EOLhyphen"/>gainſt the ſi<g ref="char:EOLhyphen"/>militude of the Plowers.</note> But if a man could
+effectually believe that this ſimilitude was made and here ſet down by the
+Holy Ghoſt, and cloſe up the ſame fully in his heart; he ſhould fear
+neither the Turk dor the Pope, with all his cruel Prelates, nor the Tyranny of
+Princes, but ſhould con<g ref="char:EOLhyphen"/>temn them all, and as little regard them as the
+graſs on the tops of the houſes.</p>
+               <p>But behold the outward ſhew of this graſs. If any child
+ſhould ſee it, he would eſteem it to be better then any Barley, (for to
+Barley it is moſt like) ſince it groweth not as other things do upon the
+Earth, but in an higher and more notable place, and loadeth the tops of the
+houſes. But take a man that knoweth theſe things, and he will ſay it is
+nothing elſe but a goodly ſhew and reſemblance without any fruit. Thus
+hath the Holy Ghoſt choſen this ſimilitude to teach us, not to wiſh the
+Tyrants may be like graſs, but to know that they are indeed moſt like unto
+graſs on the houſe tops, which withereth away before the harveſt time
+come, or any man go about to cut it down. <hi>Senacherib</hi> who beſieged
+<hi>Jeruſalem,</hi> did flie over King<g ref="char:EOLhyphen"/>doms, oppreſſed and trod down all
+things under his feet: therefore he could not be counted of <hi>Ezechia</hi>
+&amp; others like unto graſs; and yet before he atchieved what he went about,
+he was compelled, not without great fear, and alſo much ſlaughter of 
+<pb n="38" facs="tcp:172313:23"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="39" facs="tcp:172313:23"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="40" facs="tcp:172313:24"/>his ſouldiers, to raiſe his
+ſiege, and he himſelf moſt miſerably periſhed. So <hi>Pharoah</hi>
+ſeemed mightily to grow and increaſe, not upon the earth, but in the air
+and upon the houſe tops; but the miſerable Jews were oppreſſed and
+trodden under foot like mire in the ſtreets. This is a reſemblance of
+graſs, not withering but freſhly flouriſhing. But how quickly did it
+wither and va<g ref="char:EOLhyphen"/>niſh to nothing? For when <hi>Pharoah</hi> did verily think to
+oppreſs them, he was ſuddenly oppreſſed himſelf and periſhed in the
+waters.</p>
+               <p>Such an image of Tyrants and Tyranny the Holy Ghoſt paint<g ref="char:EOLhyphen"/>eth
+out unto us in this place. Why then ſhouldeſt thou fear? Why ſhouldeſt
+thou tremble? Why ſhouldeſt thou deſpair, as though thou hadſt never
+ſeen moſt flouriſhing graſs within few days to wither away of its own
+accord, or didſt not know the nature of it to be ſuch as cannot long
+continue? <hi>Athanaſius</hi> (when <hi>Julianus</hi> the Emperour did many
+wayes afflict both him and the whole Church, and fought, not only with cruelty,
+but alſo with craft and ſubtilty againſt the faithful, inſomuch that
+others, as it were in a terrible tempeſt, were utterly diſ<g ref="char:EOLhyphen"/>couraged and
+paſt all hope of deliverance) ſaid that this Perſe<g ref="char:EOLhyphen"/>cution of
+<hi>Julian</hi> was not a tempeſt but a little cloud. Indeed his heart was
+full of faith which could believe, that <hi>Julianus</hi> was like, not to a
+terrible and a violent tempeſt, not to a mighty black cloud wrapping all
+things in darkneſs, but unto a very little cloud, which the Sun doth quickly
+conſume. In like manner muſt we alſo extenuate and diminiſh the power
+of our adverſaries, and ſet at nought all their proud brags, and all their
+cruelty; not in reſpect of our own ſtrength, but becauſe they are of
+themſelves nothing elſe but a bubble in the water, graſs on the houſe
+tops, and a very ſhadow rather then men; beſides this, that they provoke
+God alſo againſt themſelves; whoſe fury &amp; cruelty compared unto his
+power, is a thing more vain than graſs on the houſe tops, or a bubble in
+the water; for it is nothing but a bare and a naked ſhew, which ſeemeth to
+be ſomething, when indeed it is nothing. So are all the attempts of the
+adverſaries; full of threatnings, but in the end they come to nothing.</p>
+               <p>This is the wiſdom of Chriſtians, to diminiſh the power of
+the adverſaries, and contrariwiſe to amplifie the Word and 
+<pb n="41" facs="tcp:172313:24"/>the mighty protection of the Lord. The Devil, Sin, Death,
+and other ſpiritual tentations are great; but a Chriſtian can make a
+diſtinction of greatneſs. For greatneſs is underſtood two manner of
+ways: The one is according to the eye, which the eye judgeth after the outward
+ſhew; the other is according to the truth, which the truth judgeth after the
+Word. The great<g ref="char:EOLhyphen"/>neſs therefore of Sin, Death, wicked Kings, Princes, and
+Bi<g ref="char:EOLhyphen"/>ſhops, is that which is according to the eye only: For God which ſaith,
+<hi>Be of good comfort, I have overcome the World:</hi> Al<g ref="char:EOLhyphen"/>ſo, <hi>Fear not
+thoſe which can kill the Body, but are not able to kill the Soul,</hi> the
+ſame God alone (I ſay) is the very true greatneſs, to which if you
+compare Satan, and all the fury of the whole World, what are they elſe but a
+bubble? what are they elſe but graſs? but light ſtraw and ſtubble? But
+when they are conſide<g ref="char:EOLhyphen"/>red without God, then do they terrify with a falſe
+fearful ſhew, and ſeem to be great indeed.</p>
+               <p>Wherefore Chriſtians muſt judge, not according to their
+o<g ref="char:EOLhyphen"/>pinion, but according to the truth. For an opinion is that which Reaſon
+bringeth forth beſides the Word; but Truth is grounded upon the Word, which
+judgeth the fury and the cru<g ref="char:EOLhyphen"/>elty of the World raging againſt the faithful,
+to be like unto graſs on the houſe tops. This promiſe being ſetled and
+ſurely fixed in the mind,<note place="margin">This Judg<g ref="char:EOLhyphen"/>ment, that the enemies
+are like graſs, and therefore ſhall periſh, he cal<g ref="char:EOLhyphen"/>leth a
+promiſe.</note> confirmeth the godly againſt the great power (as to
+reaſon it ſeemeth) of the World and Satan. Like as on the other ſide,
+where the word is not, the mind deceived thro' a terrible ſhew of Truth, and
+the judgment of Reaſon, is oppreſ<g ref="char:EOLhyphen"/>ſed with terror. Theſe things muſt
+not ſo be taken, as tho' we did utterly condemn the power of Princes, and of
+the World, which we count to be the creature of God; but their preſump<g ref="char:EOLhyphen"/>tion,
+and the abuſe of their power is it that we condemn, be<g ref="char:EOLhyphen"/>cauſe they fight
+therewith againſt God and his Church. Let them be Princes on the earth; Let
+them uſe their Power and Authority in the World, but when they will needs
+make War in Heaven, and with their Power go about to invade and op<g ref="char:EOLhyphen"/>preſs the
+word, this is horrible, this is execrable and damnable. And who ſo compareth
+them to bubbles, to graſs, to ſtubble, yea and to nothing, he ſaith
+truly, he judgeth rightly. For why do they fight againſt God? Think they that
+we know not what <pb n="42" facs="tcp:172313:25"/>God is? and what man is? what the Creature
+is, and what the Creator is?</p>
+               <p>Wherefore they are rightly compared to graſs on the houſe
+tops; for more contemptuouſly the Holy Ghoſt could not ſpeak of them. For
+this graſs is ſuch, that it ſoon withereth away before the ſickle be
+put unto it. Yea, no man thinketh it worthy to be cut down, no man regardeth
+it, every man ſuffereth it to brag for a while, and to ſhew it ſelf unto
+men from the houſe tops as though it were ſomewhat when it is nothing. So
+the wicked Perſecutors in the World, which are taken to be mighty and
+terrible according to the outward ſhew, are of all men moſt contemptible.
+For Chriſtians do not once think of plucking them up, or cutting them down;
+they perſecute them not, they revenge not their own injuries, but ſuffer
+them to increaſe, to brag and glory as much as they liſt; For they know
+that they cannot abide the violence of a vehement Wind. Yea though all things
+be in quietneſs, yet as graſs on the houſe tops, by lit<g ref="char:EOLhyphen"/>tle and little
+withereth away through the heat of the Sun, ſo Tyrants upon ſmall
+occaſions do periſh and ſoon vaniſh a<g ref="char:EOLhyphen"/>way. The faithful therefore in
+ſuffering do prevail and o<g ref="char:EOLhyphen"/>vercome; but the wicked in doing, are overthrown
+and mi<g ref="char:EOLhyphen"/>ſerably periſh, as all the Hiſtories of all times and ages do
+plain<g ref="char:EOLhyphen"/>ly witneſs.</p>
+            </div>
+            <div n="7" type="verse">
+               <head>
+                  <hi>Verſe 7.</hi> Whereof the Mower filleth not his hand,
+neither the Gleaner his Lap.</head>
+               <p>Here the Holy Ghoſt maketh a compariſon between Graſs
+which yieldeth no fruit, and true corn which is fruitful; that thereby he may
+the better commend unto us the former ſimili<g ref="char:EOLhyphen"/>tude, and withdraw our minds
+from the falſe dread and terror which that vain and counterfeit ſhew
+bringeth. Fruitful corn (ſaith he) is ſuch, that he which moweth it ſhall
+fill his hand, and he that gathereth the ſheaves ſhall have plenty to carry
+in<g ref="char:EOLhyphen"/>to his barn. Here ye ſee, is a truth, and not a vain ſhew. But graſs
+on the houſe tops maketh a ſhew of that which is not true, becauſe it is
+fruitleſs. So the Pope and his Prelates, with other Tyrants and
+Perſecutors, have a reſemblance and a coun<g ref="char:EOLhyphen"/>terfeit ſhew that they are the
+Church. They hold and enjoy <pb n="43" facs="tcp:172313:25"/>Dignities, Prebends, Benefices,
+as graſs hath his ſtalk and ear; but indeed they are none of the Chrrch,
+like as graſs is no Corn: for it withereth away before it can bring forth
+fruit.</p>
+               <p>For this is the chiefeſt argument wherewith they fight
+againſt us, that for this glorious ſhew whereof I ſpeak, they uſurp and
+challenge to themſelves the title of the Church. But we are commanded to take
+heed that we be not deceived by out<g ref="char:EOLhyphen"/>ward ſhews. Yea and we are admoniſhed
+alſo that ſuch ſhews are oftentimes occaſions of great calamities.
+<hi>Beware</hi> (ſaith our Saviour Chriſt) <hi>of Falſe Prophets, which
+come to you in Sheeps-cloathing.</hi> Alſo <hi>By their fruits ye ſhall
+know them.</hi> Where<g ref="char:EOLhyphen"/>as then they challenge unto themſelves the name of the
+Church, and for a goodly ſhew (which the graſs alſo that groweth on the
+houſe tops hath as well as they,) will be counted good Corn: this will not we
+grant them. For if they be good Corn, let them fill the hand of the Mower, but
+this they do not. They are un<g ref="char:EOLhyphen"/>profitable Graſs, yea worſe then graſs. For
+in that filthineſs of their wicked luſts and fleſhly pleaſures
+wherewith they are horribly polluted, and that cruelty which they exerciſe
+againſt the true Church, they retain not ſo much as the outward ſhew
+which they pretend. Wherefore, ſince there is nothing to be found in our
+adverſaries but a naked and an hypocritical ſhew, and the ſame alſo
+miſerably and many ways deformed and de<g ref="char:EOLhyphen"/>faced; ſince (I ſay) there is
+nothing elſe in them but meer hy<g ref="char:EOLhyphen"/>pocriſy, we judge and denounce them not to
+be the Church of Chriſt, but of Satan. Wherefore they are prepared as chaff
+and ſtubble to the fire, although under a ſhevv and colour of the Church,
+they afflict and Perſecute us never ſo much.</p>
+            </div>
+            <div n="8" type="verse">
+               <head>
+                  <hi>Verſe 8.</hi> Neither they which go by ſay, We
+bleſs you in the name of the Lord.</head>
+               <p>This alſo commendeth and ſetteth forth unto us the
+ſimili<g ref="char:EOLhyphen"/>tude of the graſs. For true Corn hath this commendation, that it is
+the bleſſing of God. They therefore vvhich ſee it grovv, vviſh that God
+vvould bleſs and proſper it. This (ſaith <hi>David</hi>) ſhall not be
+ſaid of that graſs; that is to ſay, of the Tyrants and the adverſaries
+of the Church, but rather they ſhall be curſed <pb n="44" facs="tcp:172313:26"/>of all
+men, yea the malediction both of God and man ſhall be heaped upon them: Like
+as it hath alſo hapned to the Church of <hi>Rome,</hi> which before our
+doctrine and preaching moſt gloriouſly flouriſhed. But now that the
+Goſpel hath plucked away her viſour, and ſheweth that ſhe is not
+without fruit, all her curſed hypocriſy is bewrayed, and her memory is
+periſh'd from among the godly. Thus the Prophet comforteth the faithful, and
+ſhew<g ref="char:EOLhyphen"/>eth that the wicked (what glorious brag and pretence ſoever they make)
+are indeed nothing, and becauſe God bleſſeth them not, they ſhall
+inherit nothing but malediction, and ſhall be con<g ref="char:EOLhyphen"/>founded, like as
+<hi>Judas;</hi> the Phariſees, <hi>Corinthus, A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius,</hi> and <hi>Pe<g ref="char:EOLhyphen"/>lagius,</hi> though they
+ſeemed to ſlouriſh, moſt miſerably periſhed with all their
+glory.</p>
+               <p>Wherefore let us, whoſe doctrine by the grace of God is
+ſound and agreeable with the holy Scripture, remember this ſimilitude, that
+when we muſt ſuffer hatred, ſlander, reproaches and all manner of
+injuries for the Goſpels ſake, we are not afraid but may learn hereby to
+judge the Pope, the Biſhops, the wic<g ref="char:EOLhyphen"/>ked Princes, with the tormentors and
+executioners of their cruelty, to be nothing elſe but graſs on the houſe
+tops, which ſeemeth to be ſomewhat, when indeed it is nothing, and
+there<g ref="char:EOLhyphen"/>fore it is without all bleſſing. To ſuch it ſhall be ſaid with
+the rich glutton in hell,<note place="margin">Luke 16.</note> 
+                  <hi>Son remember
+that thou in thy life time receiv<g ref="char:EOLhyphen"/>edſt thy pleaſures.</hi> For if we
+conſider the whole hiſtory of the Church even from the beginning of the
+world, we ſhall ſee that God hath always ſo wrought by his ſecret
+counſel, that as graſs on the houſe tops withereth away before the
+harveſt come: ſo Tyrants are ſuddenly cut off and never come to their
+full time. Wherefore let us conſtantly abide and endure with patience in all
+afflictions, until the end do ſhew that it was nothing but graſs, and
+ſuddenly withered when it was moſt like to increaſe and flouriſh. The
+wicked do enjoy all good things for the Churches ſake, like as the graſs on
+the houſe tops hath the be<g ref="char:EOLhyphen"/>nefit of the rain and of the Sun as well as the
+Corn in the fields. But as they ſhall not live half their days, and as they
+ſhall ſee their own counſels and devices to be but vain and without
+ſuc<g ref="char:EOLhyphen"/>ceſs, ſo ſhall they be as a perpetual ſhame among men:
+inſo<g ref="char:EOLhyphen"/>much that no man ſhall wiſh any good unto them: As at this day the
+memory of <hi>Judas, Pilate,</hi> the wicked Jews <hi>Diocleſianus, 
+<pb n="45" facs="tcp:172313:26"/>Maximinus</hi> and other Tyrants, is without honour, yea
+moſt execrable and odious unto all men. This conſolation is ſet forth by
+the holy Ghoſt by theſe groſs ſimilitudes and examples, that we may
+conceive in our minds ſome ſhadow or reſemblance of Gods Works, ſince
+we cannot rightly judge and eſteem the things themſelves according to the
+truth, but we judge the ene<g ref="char:EOLhyphen"/>mies and Perſecutors of the Church by their
+goodly ſhew and outvvard appearance, to be good Wheat, becauſe they
+proſper and flouriſh ſo long upon the earth. Wherefore vve muſt reſt
+vvholly in the Word, which with ſuch ſimilitudes painteth out theſe
+things; and we muſt with draw our ſenſes from all out<g ref="char:EOLhyphen"/>ward ſights and
+ſhews, and judge no otherwiſe of the adverſa<g ref="char:EOLhyphen"/>ries of the word, then of
+moſt vile graſs that groweth on the houſe tops, and is contemned of all
+men. For ſo ſaith the Spirit of faith: tho' our ſenſes ſay
+otherwiſe.</p>
+               <p>In like manner muſt we do alſo in ſpiritual tentations;
+when our conſcience accuſeth us and giveth teſtimony againſt us, as
+well in the agony and danger of death, as in other conflicts. Here if we follow
+that which appeareth to reaſon and our own ſenſes to be true, it ſhall
+ſeem unto us that our enemies are in<g ref="char:EOLhyphen"/>vincible and almighty, and that there is
+no remedy, but we muſt needs be overcome and utterly periſh. The ſight
+and feel<g ref="char:EOLhyphen"/>ing of this greatneſs pertaineth to the eyes and to the ſenſes
+onely, and riſeth of the judgment of reaſon, and not of the truth. But when
+we look to the true greatneſs which the word ſetteth forth unto us, we are
+conſtrained to ſay, that Death, Sin, Satan, and the very gates of hell are
+indeed nothing elſe but graſs on the houſe tops, but ſtubble, but a
+very bubble ſwimming upon the water, vvhich vvith the leaſt occaſion
+breaketh and vaniſheth avvay. So muſt theſe things be ampli<g ref="char:EOLhyphen"/>fied and
+ſet againſt all kinds of tentations, vvhether they be Perſecutors of the
+Word, as the vvorld and vvicked Princes, or elſe Sin, Death and Satan. All
+vvhich vve muſt learn to ex<g ref="char:EOLhyphen"/>tenuate and leſſen as much as vve can,
+becauſe Chriſt liveth and vve have his vvord. This conſolation is able to
+ſvvallovv up all terrors, and maketh us able to ſay, that all theſe
+things are in very deed but one thing. But vvhen vve conſider theſe things
+vvithout the Word and Chriſt, in reſpect of our ſelves, and of our ovvn
+ſtrength, then are they indeed, not graſs, but ſuch <pb n="46" facs="tcp:172313:27"/>high and mighty mountains as cannot be paſſed over. Where fore
+vvhen vve fight againſt our enemies, vve muſt fight, not as men
+conſiſting of Body and Soul, but as Chriſtians baptized in the name of
+Chriſt, having the gift of the Spirit and the Word. Novv therefore, vvhen the
+Devil, Death, Hell it ſelf, the World and Cruel Princes, are compared to a
+Chriſtian, they are but graſs upon the houſe tops, or if any thing can be
+ſaid to be more vile and contemptible. For he hath the Word, vvhich is
+almighty, and moreover he hath Chriſt himſelf. Chriſtians therefore are
+invincible,<note place="margin">2 Cor. 12.9.</note> yea even then when they are
+over<g ref="char:EOLhyphen"/>come and troden under foot. For the Power of Chriſt is made perfect
+through weakneſs. Thus did the holy Prophets and Martyrs comfort themſelves
+againſt the World and the King<g ref="char:EOLhyphen"/>dom of Satan, and therefore they did ſo
+valiantly ſuffer all kinds of afflictions, being perſvvaded, not that the
+graſs, vvhich vvithereth avvay of it ſclf, vvithout mans endeavour, but the
+Word of God ſhould have the victory. For true it is that <hi>Baſi<g ref="char:EOLhyphen"/>lius</hi>
+vvriteth vvhen he comforteth the people of <hi>Alexandria</hi> a<g ref="char:EOLhyphen"/>gainſt the
+fury of <hi>Arius,</hi> that through the Perſecutions of the Enemies, the
+Church doth more and more increaſe and multi<g ref="char:EOLhyphen"/>ply. Which thing vve alſo have
+proved, and God grant that yve and our Poſterity may ſtill ſo do.</p>
+            </div>
+         </div>
+         <div n="1 Peter 4.11, 5.1-4" type="commentary">
+            <pb n="47" facs="tcp:172313:27"/>
+            <head>THE Duty of a Good Shepherd: BY Dr. <hi>MARTIN L<g ref="char:V">Ʋ</g>THER:</hi>
+Being his COMMENTARY Upon 1 <hi>Pet.</hi> 4.11. and 1 <hi>Pet.</hi> 5.1, 2, 3,
+4.</head>
+            <div n="22" type="verse">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>1 PET. 4.11.</hi>
+                     </bibl> 
+                     <p>If any mnn miniſter, let him do it, as of the ability which
+God miniſtreth.</p>
+                  </q>
+               </epigraph>
+               <p>WHoſoever executeth any function in the Church, or hath the
+cure of Souls committed unto him, may not deal as he liſt himſelf, or to
+over-rule matters according to his own ſenſual Will. Neither ſhall he
+ſay, Tuſh, I am a Prelate, the people muſt all liſten to that which I
+ſay, and obſerve my Laws, Ordinances, and Injunctions without gainſaying.
+For God requireth this, that no man miniſter, or do any thing, contrary or
+repugnant to that which he commandeth and appointeth. A Prelate or Biſhop (I
+ſay) ought to do nothing in the Church, unleſs he be certain and ſure of
+the warrantiſe thereof by Gods Word. For God cannot abide to have his
+ſervice jumbled and mingled at pleaſure, with every fooliſh Guegaw, and
+light trum<g ref="char:EOLhyphen"/>pery. And therefore he ought to have an aſſurance and certain<g ref="char:EOLhyphen"/>ty
+in his mind and Conſcience, that even God both ſpeaketh and worketh in him;
+and to ſtand upon ſo ſure a ground for <pb n="48" facs="tcp:172313:28"/>the verity
+thereof, that his Faith dare boldly witneſs with him and ſay, Whatſoever
+I have ſpoken, and whatſoever I have done, or dealt herein, I am ſo out
+of doubt, that the ſame in each reſpect is conſonant to the Word and Will
+of God, that I am ready, and dare to ſeal the ſame with my blood, and to
+confirm it with my Death. For otherwiſe, if I waver and totter this way and
+that way, not knowing whoſe cauſe and buſineſs I have in hand, my Faith
+is builded upon the Sand, ſo that the Devil mine Adver<g ref="char:EOLhyphen"/>ſary, is able to
+ſhake and tumble it which way he liſt. And therefore we are here
+ſtraightly forbidden, not to rely unto, nor to allow whatſoever Decree or
+Conſtitution theſe Biſhops liſt to obtrude and enjoyn, unleſs they
+ſtand upon a ſure ground, that the things which they do, are allowed of
+God, yea done of God himſelf; and unleſs they be able to ſay, Do this,
+for it is the Will and Commandment of God, and we have his expreſs Word and
+Commandment for our Warrant; If they be not able to ſay thus, they ought to
+be accounted as Lyars and De<g ref="char:EOLhyphen"/>ceivers; much leſs ought any Chriſtian to
+yield unto them therein any Obedience or Subſcription. For, the Lord hath
+ſo appointed, that our Conſciences ſhould not elſewhere be ſtayed,
+but upon the moſt ſure and infallible Rock. And thus much for publick
+functions, wherein it is not lawful for us at any hand, to follow our own
+wilful Devices, and ſenſual Conceipts; nor to preſcribe any rule or order
+to be embraced, unleſs we be undoubtedly aſſured, that it ſtandeth with
+the Will and Word of God. Wherein we evidently ſee, how clean againſt the
+King<g ref="char:EOLhyphen"/>dom of the <hi>Pope,</hi> &amp; his mitred Biſhops (as things therein
+are now handled) Saint <hi>Peters</hi> mind and Judgment was, long before any
+<hi>Popes</hi> were known in the World, to rule the roſte in ſuch
+Ponti<g ref="char:EOLhyphen"/>ficality, as ſince they have done.</p>
+            </div>
+            <div n="1-4" type="verses">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>1 PET. V. 1, 2, 3, 4.</hi>
+                     </bibl> 
+                     <p>
+                        <hi>1.</hi> The Elders which are among you I beſeech, which
+am alſo an El<g ref="char:EOLhyphen"/>der, and a witneſs of the ſufferings of Chriſt.</p>
+                  </q>
+               </epigraph>
+               <p>HEre Saint <hi>Peter</hi> teacheth thoſe that have any charge
+of feeding the Flock of Chriſt, how they ought to behave themſelves. In the
+Chapter afore, he told that none ſhould pre<g ref="char:EOLhyphen"/>ſume <pb n="49" facs="tcp:172313:28"/>to
+teach or preach any thing, unleſs he were certain and aſſured that the
+ſame was the ſincere and pure Word of God, upon which as upon a firm and
+ſtrong Rock, our Conſciences may boldly ſtay. For this in Duty is
+required of us Chriſtians, that we ſhould be certain and know throughly
+what thing is allowed of Chriſt, and what is not: for they that waver in
+uncertainty of this knowledge, are not to be taken as Chriſtians. He addeth
+alſo thus much, that whoſoever entreth into any Office or Function,
+ſhould ſo behave himſelf therein, in each reſpect, as that he ſhould
+not doubt but that God was the Author thereof. But what he here ſaith,
+peculiarly belongeth to Biſhops and Eccleſiaſtical Paſtors, wherein he
+teacheth them how they are to demean themſelves in the Adminiſtration of
+their duties and charges, and what manner of perſons they ought to be.</p>
+               <p>We muſt here further be acquainted with the Phraſe and
+Propriety of the Tongue, wherein this Epiſtle was written, that we be not
+de<g ref="char:EOLhyphen"/>ceived through ignorance of the ſignification and force of the Word. For
+this Greek name <hi>Presbuteros,</hi> which St. <hi>Peter</hi> here uſeth,
+doth ſignfiy <hi>An Elder:</hi> by which Word they alſo are called that be
+Senators; that is, men excelling in Age, Gravity, Vertue, Wiſdom, and
+Experience. After the ſame ſort, doth Chriſt call his Diſciples,
+Miniſters, and Se<g ref="char:EOLhyphen"/>nate, to whoſe Office it belongeth to overſee and
+govern his ſpiritual Empire (that is, to preach and to take care of the
+Chriſtian Congre<g ref="char:EOLhyphen"/>gation) by the name of <hi>Elders.</hi> And therefore
+marvail not a whit, nei<g ref="char:EOLhyphen"/>ther let any thing move thee, though they which be
+<hi>Elders,</hi> be now a days called by other Titles or Names, whereof the
+Scripture maketh no mention at all; But not reſpecting the order, wherein
+things preſently ſtand, weigh and conceive the matter thus: When St.
+<hi>Peter</hi> or any o<g ref="char:EOLhyphen"/>ther of the Apoſtles, came into any City wherein
+Chriſtians were, they ordained ſome one or other of them, ſuch as lived
+honeſtly and un<g ref="char:EOLhyphen"/>blameable, and had Wife and Children, and alſo skilful in
+the Scrip<g ref="char:EOLhyphen"/>tures of God, to have the Superintendency and charge over the reſt.
+And them they called Seniors or Elders, whom afterward both St.
+<hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> and alſo St. <hi>Paul</hi> called Biſhops, whereby we may
+note, that <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> were no other, then the very ſame that were
+<hi>Elders.</hi>
+               </p>
+               <p>Touching this purpoſe, we read in the Hiſtory of St.
+<hi>Martin,</hi> how a certain man came unto a place in <hi>Africa,</hi> and
+there in a poor Cottage found an Elderly man, whom they thought to have been
+ſome plain Country-man. Within a while, they ſaw many people come flocking
+to him, to whom he Preached and Expounded the Word of God, whereby they
+perceived that he was their Paſtor or Biſhop. For in thoſe days, 
+<pb n="50" facs="tcp:172313:29"/>there was no difference either in Apparel or manners
+between the Bi<g ref="char:EOLhyphen"/>ſhops, and reſidue of Chriſtians.</p>
+               <p>
+                  <hi>The Elders</hi> (ſaith St. <hi>Peter</hi>) <hi>upon whom
+the charge lyeth, to feed the flock of Chriſt with the Word of God, and to
+have care over them in the Lord, I exhort, which am alſo an Elder.</hi>
+Whereby it manifeſtly appear<g ref="char:EOLhyphen"/>eth, that they whom he here nameth
+<hi>Elders,</hi> were ſuch as laboured in the Miniſtry of the Word, and
+diligently preached the glad Tydings of the Goſpel. For, ſuch as he was
+that calleth himſelf their fellow Elder, ſuch alſo appeareth it that they
+were. And here we ſee, how far he humbleth and abaſeth himſelf, in that,
+he taketh not upon him the name of a Prelate, (which in reſpect that he was
+an Apoſtle of the Lord he might have done) but calleth himſelf a <hi>Fellow
+Elder, and alſo a witneſs of the Sufferings of Chriſt.</hi> As if he had
+ſaid, <hi>I do not only preach, but I am alſo among thoſe Confeſſors
+of Chriſt, that are exerciſed in dayly Af<g ref="char:EOLhyphen"/>flictions.</hi> And withal he
+alſo ſheweth that ſo many as be Chriſtians, muſt be perſecuted and
+ſuffer affliction. And this is a true Apoſtle of Chriſt, unto whom if the
+<hi>Pope</hi> and his Biſhops were any thing like, (as they are ſhameleſs
+enough, to challenge to themſelves the ſame Title) we would not greatly
+ſtick, willingly to kiſs their feet.</p>
+            </div>
+            <div n="1" type="verse">
+               <head>
+                  <hi>Verſ. 1.</hi> And alſo a Partaker of the Glory that
+ſhall be Revealed.</head>
+               <p>This part of the Apoſtles Style and Title, is of far more
+excellency, then any that our <hi>Popiſh</hi> Biſhops dare pretend to
+uſe. For thereby doth St. <hi>Peter</hi> take and reckon himſelf Holy, and
+a bleſſed Man. And altho' he perfectly knew, that he ſhould be a Partaker
+of the Glory to come, yet taketh he no Pride therein, he lifteth not himſelf
+up in any ſwelling Glory, but modeſtly containeth himſelf within the
+bounds of temperate ſoftneſs and courteſy.</p>
+            </div>
+            <div n="2" type="verse">
+               <head>
+                  <hi>V. 2.</hi> Feed the flock of God, which dependeth upon
+you, caring for it, not by conſtraint, but willingly; not for filthy Lucre,
+but of a ready Mind.</head>
+               <p>Chriſt is the firſt and chiefeſt Paſtour, who hath many
+Paſtours under him; as he alſo hath many Flocks: whom being diſperſed
+in ſundry quarters of the World, he committeth to the charge and overſight
+of their Shepherds and Paſtours, as in this Epiſtle of St. <hi>Peter,</hi>
+written in<g ref="char:EOLhyphen"/>to divers Countries and Regions, appeareth. But what is the charge
+of theſe Paſtours to do? Forſooth, to <hi>feed the Flock of
+Chriſt.</hi> This word <hi>(Feed)</hi> the <hi>Pope</hi> hath raked and haled
+unto himſelf, whereby he goeth <pb n="51" facs="tcp:172313:29"/>about to prove himſelf
+Lord and Prince of all, and that it is in our own choice and Authority, to deal
+with the Sheep as he liſteth himſelf. But alas, who is ſo ignorant that
+knoweth not what this word (Feed) meaneth: To wit, that the Paſtours and
+Shepherds ought to provide Paſture for their Sheep, and to ſee them have
+their meat in convenient and due ſeaſon, whereby they may grow to be
+fruitful: And moreover to watch that <hi>devouring Wolves ruſh not in among
+them, and tear the Flock in pieces?</hi> This word <hi>(Feed)</hi>
+ſigniſieth nothing leſs then to <hi>kill</hi> and <hi>ſpoil.</hi>
+               </p>
+               <p>Furthermore St. <hi>Peter</hi> calleth it peculiarly <hi>the
+Flock of Chriſt,</hi> as tho' he ſhould ſay, Think not that the Flock is
+any of your own, ye are but only Servants and Miniſters to look unto it, ye
+are no Lords nor Maſters over it. Contrary to the bold practice and
+cuſtomable dealing of many Biſhops, which account and call every one within
+their Dioceſs and Ju<g ref="char:EOLhyphen"/>riſdiction, their Sheep. We are the Sheep of Chriſt,
+for he ſaid afore, <hi>Ye are now returned unto the Shepherd and Biſhop of
+your Souls.</hi> Biſhops are the Miniſters of Chriſt, to keep his Sheep,
+and to give them meat and paſture. And therefore to <hi>Feed,</hi> is nothing
+elſe then to preach the Goſ<g ref="char:EOLhyphen"/>pel, wherewith their Souls may be fed, fatted
+and fructified, that ſo the Sheep may be nouriſhed with the Goſpel. This
+is the only and pro<g ref="char:EOLhyphen"/>per Office of a Biſhop.</p>
+               <p>So ſaid Chriſt unto <hi>Peter; Feed my Sheep, Joh.</hi> 21.
+that is, the Sheep which I commit unto thee to feed, are not <hi>thine</hi> but
+<hi>mine.</hi> Howbeit theſe words have been ſo canvaſſed and wreſted
+by my Lord the <hi>Pope,</hi> that he thereby uſurpeth and exerciſeth an
+external Domination and Lordſhip over the Church of Chriſt, whereas neither
+he, nor any of his ſacrilegi<g ref="char:EOLhyphen"/>ous Chaplains, preacheth ſo much as one word
+of the Goſpel. They brag that they have their Succeſſion from St.
+<hi>Peter.</hi> If it were ſo, yet ſear I, that it could ſcarcely be
+proved that any <hi>Pope</hi> ever preached the Goſ<g ref="char:EOLhyphen"/>pel; for none of them
+hath left any thing behind him, that is written and extant, wherein a man may
+read the Goſpel. St. <hi>Gregory</hi> the <hi>Pope</hi> was ſurely an holy
+man; and yet the things which he preached, are not to be eſteemed worth a
+ſtraw; whereby it may appear, that the ſame See of <hi>Rome</hi> is
+peculiarly and ſpecially accurſed of God. I deny not, but ſundry of the
+<hi>Popes</hi> ſuffered Martyrdom under cruel Tyrants, for the
+Goſpels-ſake, but yet there is nothing extant that was written by any of
+them, which is Evangelical. And yet they ſtill brag and crack, that it is
+their charge to feed, whereas indeed they do nothing elſe but entangle, and
+clogge mens Conſciences with Laws of their own, and <pb n="52" facs="tcp:172313:30"/>make
+havock and ſale of mens Souls, never troubling themſelves with preaching
+one word of Chriſt his ſacred Goſpel.</p>
+               <p>True it is, that there are many to be found, as well Women as
+men, which are able to preach, and that with no leſs Dexterity and
+ſufficien<g ref="char:EOLhyphen"/>cy, then he unto whom that charge and office is peculiarly
+committed. But becauſe the greateſt number in the flock always is of
+weaklings, therefore it is expedient that ſome be appointed to ſtrengthen
+and con<g ref="char:EOLhyphen"/>firm ſuch, and to keep back the Wolf from ruſhing in among them,
+and devouring them. For a Preachers Office and Duty is not only to feed, that
+is, to teach his Sheep, how they ought to frame themſelves to be<g ref="char:EOLhyphen"/>come true
+and ſincere Chriſtians; but he hath the charge alſo to look that the Wolf
+be kept out, and that none of the Sheep be devoured, or ſeduced by falſe
+Doctrine, and ſo drawn into error, which is the conti<g ref="char:EOLhyphen"/>nual drift and practice
+of the Devil. Now, there be many that can well enough abide to have the
+Goſpel preached, ſo that there might be no exclaiming, and ſpeaking
+againſt Wolves; I mean, ſo that Preachers in their Sermons, would forbear
+railing and taunting againſt Prelates. But although I preach ſound
+Doctrine, and that which is true; and al<g ref="char:EOLhyphen"/>though I feed and teach (my charge)
+the Sheep, well and rightly; yet is not that ſufficient; for it is further
+required at my hands, to keep the Sheep from danger, and to have a careful
+regard unto them, that Wolves come not among them, to drive them away out of
+their fertile and wholeſome paſtures. For to what purpoſe is my building,
+if when I have couched and orderly laid my Stones, another ſtraitways come
+and throw them down as faſt again, and I ſeeing him, forbid him not? The
+Wolf is well enough contented, that the Sheep be well fed, and fatted in good
+paſture; becauſe the fatter they be, the pleaſanter and daintier Prey
+thinketh he to make of them. But that Dogs ſhould inceſſantly bark and
+baule at him, that can he not abide. And therefore it is a mat<g ref="char:EOLhyphen"/>ter of no
+ſmall weight and charge, to feed well, according as God hath given in
+Commandment to do; and it behooveth each one in that fun<g ref="char:EOLhyphen"/>ction carefully to
+conſider his charge in this behalf.</p>
+               <p>The Flock (ſaith he) <hi>which dependeth upon you,</hi> that
+is, over which ye have charge, or which is among you, and not which is
+ſubject and lying at your feet. <hi>Care for it, and that not by
+conſtraint, becauſe you can no o<g ref="char:EOLhyphen"/>therwiſe chooſe, but willingly; not
+for filthy lucre ſake, but of a ready mind.</hi> Here he comprehendeth in one
+word, all that which the Prophet <hi>Eze<g ref="char:EOLhyphen"/>hiel</hi> in the 34th Chapter of his
+Propheſy, writeth concerning Paſtors or Biſhops. The meaning of this
+place is thus: Not only feed ye, but take ye care alſo and provide for them,
+that they want nothing, and <pb n="53" facs="tcp:172313:30"/>where any ſtandeth in
+neceſſity or need, there ſee that ye releive them: and in each reſpect,
+do the parts and duties of right <hi>Epiſcopoi,</hi> that good Watchmen and
+faithful Eſpials. Look out, leaſt danger appear, ſtand always preſt and
+ready on your guard, and diligently behold and eſpy out of your Watch Tower,
+what it is that is wanting, or what is befallen unto every one within your
+charges. Hereby we may well perceive and know, that a Biſhop is even the
+ſame which is here meant by an <hi>Elder.</hi> And therefore it is not true,
+which ſome ſay, that a Bi<g ref="char:EOLhyphen"/>ſhoprick is a Dignity, and a Biſhop only he
+that weareth a forked Mi<g ref="char:EOLhyphen"/>tre. <hi>Epiſcopacy</hi> is not a name of Dignity,
+but of Office: for he that is inveſted with that name and title, ought to
+look to his Flock, and to be careful for it, and to ſerve as a good Watchman,
+to ſee abroad, and learn what things be amiſs any where within his charge.
+As if there be any that is weak, having his conſcience wounded, him ought he
+to confirm, comfort and heal: if any fall, him ought he to lift up again, and
+ſo as other defects ariſe, to be ready to help, whereby Chriſtian-people
+may be ſafficiently looked unto and provided for, both in Soul and in Body.
+This is the reaſon that hath moved me therefore oftentimes to ſay, that if
+we would inſtitute a right Chriſtian Com<g ref="char:EOLhyphen"/>mon-wealth, it were neceſſary,
+that in every City there ſhould be three or four Superintendents, to take
+care and regard over the Church and Congregation, and to reform and reſtore
+whatſoever therein is amiſs or wanting.</p>
+               <p>And here he toucheth two ſpecial Points, enough almoſt to
+terrify and diſcourage any man from bearing Authority over the people, or to
+take this great charge and burden upon him. Firſt there be ſome vertuous
+and honeſt men, who half unwillingly are drawn into the Mi<g ref="char:EOLhyphen"/>niſtry and
+function of Preaching; for that, they ſee it to be a painful and laborious
+Office, to skout about every where, to ſee how the Sheep live, to ſuccour
+and help them that be in want, to ſtrengthen and raiſe up them that be
+wavering and ready to fall; and finally to have ſuch diligent care and
+continual watch over them, that the Wolf find no entrance to invade and come
+ruſhing in among them; yea in that, he muſt not ſtick to lay down his
+life for their preſervation and ſafeguard, And alſo for that it is ſuch
+an hard matter of ſo great difficulty, truly to diſcharge the office of a
+goodly Paſtor: yea of ſo great danger it muſt be throughly executed, and
+that not unwillingly, or as though it alſo, becauſe were by conſtraint.
+True it is, that no man ought to in<g ref="char:EOLhyphen"/>trude himſelf into that Office; but if he
+be thereunto called an required, he ought willingly to take it upon him, and to
+diſcharge and perform as much as to his function and office appertaineth.</p>
+               <pb n="54" facs="tcp:172313:31"/>
+               <p>For they that take this matter upon them upon neceſſity and
+con<g ref="char:EOLhyphen"/>ſtraint, and have neither courage nor pleaſure in the ſame, ſhall
+never with any profit fruitfully diſcharge or execute their office.</p>
+               <p>Again, there be others worſe then theſe, which take this
+Office upon them for no other end but for filthy Lucre, to ſcrape and rake
+together wealth, and to pamper and cram their bellies. Theſe fellows ſeek
+only for the Wool and the Milk of the Sheep, but as for good Paſtures for
+them they care not; and with this Scab is the Popiſh Clergy horri<g ref="char:EOLhyphen"/>bly
+infected. And this is a moſt hurtful, dangerous noyſome and filthy Vice,
+then which there cannot be any ſo diſhonourable or ſhameful for him that
+taketh on him the name and charge of a Chriſtian Biſhop or Paſtor. Which
+was the thing that cauſed both the Apoſtles, <hi>Petor</hi> and
+<hi>Paul,</hi> and alſo the Prophets, ſo oft to record and inculcate it.
+This cauſed <hi>Moſes</hi> to ſay, Numb. 16. <hi>I have not taken ſo
+much as an Aſs from them; neither have I hurt any of them.</hi> And
+<hi>Samuel</hi> alſo; <hi>Ye know that I have not taken any mans Ox, or Aſs
+from him, nor done wrong to any, &amp;c.</hi> 1 <hi>Sam.</hi> 12. For if he
+that hath this charge and function of feed<g ref="char:EOLhyphen"/>ing the Flock, be greedily given to
+ſcraping together of riches and wealth, and to gape after filthy Lucre;
+ſuch an one (I ſay) is him<g ref="char:EOLhyphen"/>ſelf eaſily and ſoon changed from a
+Paſtor into a Wolf.</p>
+            </div>
+            <div n="2" type="verse">
+               <head>
+                  <hi>Verſ. 2.</hi> But of a ready mind.</head>
+               <p>That is, even with pleaſure. Let the Paſtor or Biſhop
+apply his Office and Vocation, and that with a ready willingneſs. They that
+thus chearfully, promptly and zealouſly diſcharge their function, are
+thoſe, which as they do their duties willingly, ſo do they not greedily
+pull the fleece from the Sheep. There be therefore two ſorts of falſe
+Paſtors. The one ſort occupy their room grudgingly and unwillingly; the
+o<g ref="char:EOLhyphen"/>ther willingly and gladly; but yet for gain and filthy Lucre.</p>
+            </div>
+            <div n="3" type="verse">
+               <head>
+                  <hi>Verſ. 3.</hi> Not as though yo were Lords over Gods
+heritage.</head>
+               <p>Sueh are they that are willing to take the office upon them, for
+dig<g ref="char:EOLhyphen"/>nity ſake, becauſe they would live pompouſly and bear great ſway
+and authority in the World. He therefore exhorteth Biſhops, Eiders and
+Paſtors, that they practiſe not any Lordly Tyranny over the Flock, as
+though the people were their Slaves and Underlings, or as though they had
+ſuch authority and Lordſhip over them, to command what they liſt. For we
+have but one Lord, which is Chriſt; and he it is <pb n="55" facs="tcp:172313:31"/>which
+governeth our Souls. Elders and Paſtors have no further charge then to feed.
+And here in one word, Saint <hi>Peter</hi> utterly overthroweth all the
+Ringdoms of the <hi>Pope;</hi> and concludeth that no Biſhop hath any
+authority, ſo much as in one word to clog and tye the conſcience of the
+faithful to the obſervation of their Precepts. For they themſelves ought to
+be Servants and Miniſters, and to ſay, Thus ſaith the Lord, and theſe
+be the words of Chriſt; it is not we, the words are none of ours; and
+therefore ye ought to do that which is here commanded. According to that which
+Chriſt ſaith; <hi>Luke</hi> 32. <hi>The Kings of the Gentiles reign over
+them, and they that bear rule over them, are called gracious Lords, but ye
+ſhall not be ſo.</hi> Contrary whereunto the Pope boaſteth and braggeth
+ſaying, We ought to be Lords, and to us only belong<g ref="char:EOLhyphen"/>eth to exerciſe chief
+Rule and Supream Authority.</p>
+            </div>
+            <div n="3, 4" type="verse">
+               <head>
+                  <hi>Verſ. 3.</hi> But that ye may be enſamples to the
+Flock. <hi>Verſ. 4.</hi> And when the chief Shepheard ſhall appear, ye
+ſhall receive an incorruptible Crown of Glory.</head>
+               <p>See that ye be the formoſt in the battle, uſing ſuch
+honeſt converſa<g ref="char:EOLhyphen"/>tion, that your life may be a Lanthorn to give light, and
+an example to the people, to imitate you. But our Lord <hi>Shaveliugs</hi>
+uſe to tell the people another tale, bidding them to do this and that, they
+themſelves in the mean while leaning on their ſoft Cuſhions, and taking
+their eaſe like Lordings; laying upon us great and grievous burdens, which
+they themſelves will not touch nor lift at with one of their fingers; not
+travelling any whit in Preaching the true Word of God, but rather commanding
+others to do that, which they themſelves never did, nor ever meant to do. And
+yet muſt no man tell them thereof, for if he do, he ſhould be ſure
+quickly to feel the ſmart of it.</p>
+               <p>Again, to ſuch Paſtors Biſhops, Elders and
+Superintendents, as here in this world did their duties faithully, truly,
+ſincerely, and holily; Saint <hi>Peter</hi> aſſigneth no temporal reward;
+as though he ſhould ſay, your Office and Function is of more excellency and
+dignity, then that in this life it can be requited and recompenced; there is
+due and kept for you an Evelarſting Crown, that ſhall be given unto you
+which faithfully and diligently feed the Flock of Chriſt. And this is the
+exhortation where<g ref="char:EOLhyphen"/>with Saint <hi>Peter</hi> encourageth them, to whom the
+charge and cure of Souls is committed. Whereby is manifeſtly concluded and
+proved, that the Pope with his Cardinals and Biſhops is the very
+Antichriſt, and <pb n="56" facs="tcp:172313:32"/>and the profeſſed Adverſaries of
+Chriſt, for that they do nothing of all theſe, which Saint <hi>Peter</hi>
+here requireth. For they neither teach o<g ref="char:EOLhyphen"/>thers, neither do they any thing
+themſelves, but are wholly and alto<g ref="char:EOLhyphen"/>gether in thoſe devices and by-matters,
+which are moſt oppoſite and contrary thereunto. They neither feed the Sheep
+themſelves, neither will they ſuffer others to feed them; but rather place
+the ravening Wolves, devouring and murthering the Flock, and yet brag they,
+that they be Chriſts Vicar on Earth. Too truly (the more pity) are they in
+the room and ſtead of Chriſt, being abſent, after the manner and example
+of the Devil: For whereſoever Chriſt is not in place, there they bear
+ſway, and as Butcherly Tyrants raign and command moſt imperiouſly.</p>
+               <p>It is therefore very expedient and requiſite, that the Laity
+and ſim<g ref="char:EOLhyphen"/>pler ſort ſhould perfectly remember this and ſuch like places;
+by the which they may be able to anſwer againſt that Antichriſtian
+Kingdom of the Pope, whenſoever they ſhall be called into queſtion and
+exami<g ref="char:EOLhyphen"/>nation as touching their Faith; yea, thus may they well ſay, when they
+are brought unto ſuch pinches. Behold Chriſt ſaith thus, and the Pope
+ſaith the clean contrary. Chriſt ſaith yea, the Pope ſaith nay. They
+therefore thus teaching contrary and repugnant doctrines, the one of them
+muſt needs lye. Now, that Chriſt ſhould lye, it is impo<g ref="char:EOLhyphen"/>ſſible, and
+therefore it is the Pope, that is the lying Ruffian of the world, and not only
+a Devilliſh Lyar, but even Antichriſt himſelf. Thus oughteſt thou to be
+furniſhed armed with the Scriptures, by the which thou mayſt not only
+boldly call the Pope Anticriſt, but mayſt alſo (when thou haſt ſo
+done) moſt plainly and eaſily prove it, ſo that thou mayſt ſurely by
+the Word of God perſiſt in thine opinion, even to the death, againſt the
+Devil and all his Infernal Army.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
